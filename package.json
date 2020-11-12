@@ -1,0 +1,11 @@
+{
+  "name": "rrg-font",
+  "version": "1.0.0",
+  "description": "Polices RRG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "purjus",
+  "license": "ISC"
+}
