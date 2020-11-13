@@ -8,8 +8,6 @@ Polices d'îcones pour les projets RRG basée sur le Renault Design System 2020.
 yarn add purjus/rrg-rds-icon-font
 ```
 
-## Utilisation
-
 ## Ajouter une îcone
 
 Mettre à jour le fichier sources/RenaultIcon.X.X.X.ai et suivre les instructions. Exporter les nouveaux fichiers dans le répertoire *icons*.
