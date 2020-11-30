@@ -1,4 +1,4 @@
-# Renauld Design Sytem Icon Font 0.1.0
+# Renauld Design Sytem Icon Font
 
 Polices d'icônes pour les projets RRG basé sur le Renault Design System 2020.
 
