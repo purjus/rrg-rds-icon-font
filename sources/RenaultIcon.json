@@ -1,7 +1,7 @@
 {
   "selection": [
     {
-      "order": 0,
+      "order": 2,
       "name": "save",
       "prevSize": 32
     },
@@ -172,7 +172,7 @@
     },
     {
       "order": 36,
-      "name": "seach",
+      "name": "search",
       "prevSize": 32
     },
     {
@@ -1549,7 +1549,7 @@
     },
     "designer": "Purjus Communication",
     "designerURL": "http://purjus.fr",
-    "iconsHash": 220615285
+    "iconsHash": 1245758752
   },
   "height": 1024,
   "prevSize": 32,
@@ -1900,7 +1900,7 @@
       ],
       "grid": 0,
       "tags": [
-        "seach"
+        "search"
       ],
       "defaultCode": 59682
     },
@@ -4647,7 +4647,7 @@
       "metadata": {
         "fontFamily": "RenaultIcon",
         "majorVersion": 1,
-        "minorVersion": 0,
+        "minorVersion": 1,
         "description": "Renault Design System 2020 Icon Library",
         "copyright": "All Right Reserved",
         "designer": "Purjus Communication",
