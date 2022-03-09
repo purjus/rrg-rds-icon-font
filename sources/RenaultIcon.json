@@ -1,1552 +1,1557 @@
 {
   "selection": [
     {
-      "order": 310,
+      "order": 316,
+      "name": "speech_forum",
+      "prevSize": 32
+    },
+    {
+      "order": 317,
       "name": "read",
       "prevSize": 32
     },
     {
-      "order": 311,
+      "order": 318,
       "name": "log_out",
       "prevSize": 32
     },
     {
-      "order": 2,
+      "order": 319,
       "name": "save",
       "prevSize": 32
     },
     {
-      "order": 3,
+      "order": 320,
       "name": "print",
       "prevSize": 32
     },
     {
-      "order": 4,
+      "order": 321,
       "name": "send",
       "prevSize": 32
     },
     {
-      "order": 5,
+      "order": 322,
       "name": "file_download",
       "prevSize": 32
     },
     {
-      "order": 6,
+      "order": 323,
       "name": "folder",
       "prevSize": 32
     },
     {
-      "order": 7,
+      "order": 324,
       "name": "files",
       "prevSize": 32
     },
     {
-      "order": 8,
+      "order": 325,
       "name": "sheet",
       "prevSize": 32
     },
     {
-      "order": 9,
+      "order": 326,
       "name": "list_sheet",
       "prevSize": 32
     },
     {
-      "order": 10,
+      "order": 327,
       "name": "faourite_sheet",
       "prevSize": 32
     },
     {
-      "order": 11,
+      "order": 328,
       "name": "car_sheet",
       "prevSize": 32
     },
     {
-      "order": 12,
+      "order": 329,
       "name": "email_sheet",
       "prevSize": 32
     },
     {
-      "order": 13,
+      "order": 330,
       "name": "pdf_sheet",
       "prevSize": 32
     },
     {
-      "order": 14,
+      "order": 331,
       "name": "settings_sheet",
       "prevSize": 32
     },
     {
-      "order": 15,
+      "order": 332,
       "name": "cookies",
       "prevSize": 32
     },
     {
-      "order": 16,
+      "order": 333,
       "name": "usb",
       "prevSize": 32
     },
     {
-      "order": 17,
+      "order": 334,
       "name": "reload",
       "prevSize": 32
     },
     {
-      "order": 18,
+      "order": 335,
       "name": "refresh",
       "prevSize": 32
     },
     {
-      "order": 19,
+      "order": 336,
       "name": "edit",
       "prevSize": 32
     },
     {
-      "order": 20,
+      "order": 337,
       "name": "check_list",
       "prevSize": 32
     },
     {
-      "order": 21,
+      "order": 338,
       "name": "bullet_list",
       "prevSize": 32
     },
     {
-      "order": 22,
+      "order": 339,
       "name": "check_list_ok",
       "prevSize": 32
     },
     {
-      "order": 23,
+      "order": 340,
       "name": "ok",
       "prevSize": 32
     },
     {
-      "order": 24,
+      "order": 341,
       "name": "no",
       "prevSize": 32
     },
     {
-      "order": 25,
+      "order": 342,
       "name": "delete",
       "prevSize": 32
     },
     {
-      "order": 26,
+      "order": 343,
       "name": "apps",
       "prevSize": 32
     },
     {
-      "order": 27,
+      "order": 344,
       "name": "app",
       "prevSize": 32
     },
     {
-      "order": 28,
+      "order": 345,
       "name": "home",
       "prevSize": 32
     },
     {
-      "order": 29,
+      "order": 346,
       "name": "settings",
       "prevSize": 32
     },
     {
-      "order": 30,
+      "order": 347,
       "name": "filter_1",
       "prevSize": 32
     },
     {
-      "order": 31,
+      "order": 348,
       "name": "filter_2",
       "prevSize": 32
     },
     {
-      "order": 32,
+      "order": 349,
       "name": "favourite",
       "prevSize": 32
     },
     {
-      "order": 33,
+      "order": 350,
       "name": "bookmark",
       "prevSize": 32
     },
     {
-      "order": 34,
+      "order": 351,
       "name": "new_bookmark",
       "prevSize": 32
     },
     {
-      "order": 35,
+      "order": 352,
       "name": "view",
       "prevSize": 32
     },
     {
-      "order": 36,
+      "order": 353,
       "name": "search",
       "prevSize": 32
     },
     {
-      "order": 37,
+      "order": 354,
       "name": "zoom",
       "prevSize": 32
     },
     {
-      "order": 38,
+      "order": 355,
       "name": "de-zoom",
       "prevSize": 32
     },
     {
-      "order": 39,
+      "order": 356,
       "name": "increase_text",
       "prevSize": 32
     },
     {
-      "order": 40,
+      "order": 357,
       "name": "decrease_text",
       "prevSize": 32
     },
     {
-      "order": 41,
+      "order": 358,
       "name": "touch",
       "prevSize": 32
     },
     {
-      "order": 42,
+      "order": 359,
       "name": "menu",
       "prevSize": 32
     },
     {
-      "order": 43,
+      "order": 360,
       "name": "add",
       "prevSize": 32
     },
     {
-      "order": 44,
+      "order": 361,
       "name": "more",
       "prevSize": 32
     },
     {
-      "order": 45,
+      "order": 362,
       "name": "alert",
       "prevSize": 32
     },
     {
-      "order": 46,
+      "order": 363,
       "name": "information",
       "prevSize": 32
     },
     {
-      "order": 47,
+      "order": 364,
       "name": "question",
       "prevSize": 32
     },
     {
-      "order": 48,
+      "order": 365,
       "name": "comment",
       "prevSize": 32
     },
     {
-      "order": 49,
+      "order": 366,
       "name": "dialog",
       "prevSize": 32
     },
     {
-      "order": 50,
+      "order": 367,
       "name": "user",
       "prevSize": 32
     },
     {
-      "order": 51,
+      "order": 368,
       "name": "discussion",
       "prevSize": 32
     },
     {
-      "order": 52,
+      "order": 369,
       "name": "group",
       "prevSize": 32
     },
     {
-      "order": 53,
+      "order": 370,
       "name": "contact",
       "prevSize": 32
     },
     {
-      "order": 54,
+      "order": 371,
       "name": "idea",
       "prevSize": 32
     },
     {
-      "order": 55,
+      "order": 372,
       "name": "photo",
       "prevSize": 32
     },
     {
-      "order": 56,
+      "order": 373,
       "name": "video",
       "prevSize": 32
     },
     {
-      "order": 57,
+      "order": 374,
       "name": "play",
       "prevSize": 32
     },
     {
-      "order": 58,
+      "order": 375,
       "name": "pause",
       "prevSize": 32
     },
     {
-      "order": 59,
+      "order": 376,
       "name": "stop",
       "prevSize": 32
     },
     {
-      "order": 60,
+      "order": 377,
       "name": "previous",
       "prevSize": 32
     },
     {
-      "order": 61,
+      "order": 378,
       "name": "next",
       "prevSize": 32
     },
     {
-      "order": 62,
+      "order": 379,
       "name": "minimize",
       "prevSize": 32
     },
     {
-      "order": 63,
+      "order": 380,
       "name": "full_screen",
       "prevSize": 32
     },
     {
-      "order": 64,
+      "order": 381,
       "name": "expand",
       "prevSize": 32
     },
     {
-      "order": 65,
+      "order": 382,
       "name": "soud",
       "prevSize": 32
     },
     {
-      "order": 66,
+      "order": 383,
       "name": "no_sound",
       "prevSize": 32
     },
     {
-      "order": 67,
+      "order": 384,
       "name": "music",
       "prevSize": 32
     },
     {
-      "order": 68,
+      "order": 385,
       "name": "podcast",
       "prevSize": 32
     },
     {
-      "order": 69,
+      "order": 386,
       "name": "download",
       "prevSize": 32
     },
     {
-      "order": 70,
+      "order": 387,
       "name": "upload",
       "prevSize": 32
     },
     {
-      "order": 71,
+      "order": 388,
       "name": "links",
       "prevSize": 32
     },
     {
-      "order": 72,
+      "order": 389,
       "name": "link_out",
       "prevSize": 32
     },
     {
-      "order": 73,
+      "order": 390,
       "name": "share_1",
       "prevSize": 32
     },
     {
-      "order": 74,
+      "order": 391,
       "name": "share_2",
       "prevSize": 32
     },
     {
-      "order": 75,
+      "order": 392,
       "name": "arrow_1_left",
       "prevSize": 32
     },
     {
-      "order": 76,
+      "order": 393,
       "name": "arrow_1_right",
       "prevSize": 32
     },
     {
-      "order": 77,
+      "order": 394,
       "name": "arrow_1_up",
       "prevSize": 32
     },
     {
-      "order": 78,
+      "order": 395,
       "name": "arrow_1_down",
       "prevSize": 32
     },
     {
-      "order": 79,
+      "order": 396,
       "name": "arrow_1_up_left",
       "prevSize": 32
     },
     {
-      "order": 80,
+      "order": 397,
       "name": "arrow_1_up_right",
       "prevSize": 32
     },
     {
-      "order": 81,
+      "order": 398,
       "name": "arrow_1_down_right",
       "prevSize": 32
     },
     {
-      "order": 82,
+      "order": 399,
       "name": "arrow_1_down_left",
       "prevSize": 32
     },
     {
-      "order": 83,
+      "order": 400,
       "name": "arrow_2_left",
       "prevSize": 32
     },
     {
-      "order": 84,
+      "order": 401,
       "name": "arrow_2_right",
       "prevSize": 32
     },
     {
-      "order": 85,
+      "order": 402,
       "name": "arrow_2_up",
       "prevSize": 32
     },
     {
-      "order": 86,
+      "order": 403,
       "name": "arrow_2_down",
       "prevSize": 32
     },
     {
-      "order": 87,
+      "order": 404,
       "name": "arrow_2_up_left",
       "prevSize": 32
     },
     {
-      "order": 88,
+      "order": 405,
       "name": "arrow_2_up_right",
       "prevSize": 32
     },
     {
-      "order": 89,
+      "order": 406,
       "name": "arrow_2_down_right",
       "prevSize": 32
     },
     {
-      "order": 90,
+      "order": 407,
       "name": "arrow_2_down_left",
       "prevSize": 32
     },
     {
-      "order": 91,
+      "order": 408,
       "name": "slide",
       "prevSize": 32
     },
     {
-      "order": 92,
+      "order": 409,
       "name": "scroll",
       "prevSize": 32
     },
     {
-      "order": 93,
+      "order": 410,
       "name": "phone",
       "prevSize": 32
     },
     {
-      "order": 94,
+      "order": 411,
       "name": "mobile",
       "prevSize": 32
     },
     {
-      "order": 95,
+      "order": 412,
       "name": "tablet",
       "prevSize": 32
     },
     {
-      "order": 96,
+      "order": 413,
       "name": "laptop",
       "prevSize": 32
     },
     {
-      "order": 97,
+      "order": 414,
       "name": "desktop",
       "prevSize": 32
     },
     {
-      "order": 98,
+      "order": 415,
       "name": "television",
       "prevSize": 32
     },
     {
-      "order": 99,
+      "order": 416,
       "name": "wifi",
       "prevSize": 32
     },
     {
-      "order": 100,
+      "order": 417,
       "name": "car-send",
       "prevSize": 32
     },
     {
-      "order": 101,
+      "order": 418,
       "name": "car_received",
       "prevSize": 32
     },
     {
-      "order": 102,
+      "order": 419,
       "name": "car_ko",
       "prevSize": 32
     },
     {
-      "order": 103,
+      "order": 420,
       "name": "car_ok",
       "prevSize": 32
     },
     {
-      "order": 104,
+      "order": 421,
       "name": "calendar",
       "prevSize": 32
     },
     {
-      "order": 105,
+      "order": 422,
       "name": "reminder",
       "prevSize": 32
     },
     {
-      "order": 106,
+      "order": 423,
       "name": "alarm",
       "prevSize": 32
     },
     {
-      "order": 107,
+      "order": 424,
       "name": "stopwatch",
       "prevSize": 32
     },
     {
-      "order": 108,
+      "order": 425,
       "name": "answer_in_4_hours",
       "prevSize": 32
     },
     {
-      "order": 109,
+      "order": 426,
       "name": "data",
       "prevSize": 32
     },
     {
-      "order": 110,
+      "order": 427,
       "name": "chart",
       "prevSize": 32
     },
     {
-      "order": 111,
+      "order": 428,
       "name": "organisation",
       "prevSize": 32
     },
     {
-      "order": 112,
+      "order": 429,
       "name": "planet",
       "prevSize": 32
     },
     {
-      "order": 113,
+      "order": 430,
       "name": "factory",
       "prevSize": 32
     },
     {
-      "order": 114,
+      "order": 431,
       "name": "foundy",
       "prevSize": 32
     },
     {
-      "order": 115,
+      "order": 432,
       "name": "basket",
       "prevSize": 32
     },
     {
-      "order": 116,
+      "order": 433,
       "name": "credit_card",
       "prevSize": 32
     },
     {
-      "order": 117,
+      "order": 434,
       "name": "euro",
       "prevSize": 32
     },
     {
-      "order": 118,
+      "order": 435,
       "name": "money",
       "prevSize": 32
     },
     {
-      "order": 119,
+      "order": 436,
       "name": "coins",
       "prevSize": 32
     },
     {
-      "order": 120,
+      "order": 437,
       "name": "reset_coins",
       "prevSize": 32
     },
     {
-      "order": 121,
+      "order": 438,
       "name": "saing",
       "prevSize": 32
     },
     {
-      "order": 122,
+      "order": 439,
       "name": "calculator",
       "prevSize": 32
     },
     {
-      "order": 123,
+      "order": 440,
       "name": "promo",
       "prevSize": 32
     },
     {
-      "order": 124,
+      "order": 441,
       "name": "sales",
       "prevSize": 32
     },
     {
-      "order": 125,
+      "order": 442,
       "name": "shop_bag",
       "prevSize": 32
     },
     {
-      "order": 126,
+      "order": 443,
       "name": "box",
       "prevSize": 32
     },
     {
-      "order": 127,
+      "order": 444,
       "name": "car_servicing",
       "prevSize": 32
     },
     {
-      "order": 128,
+      "order": 445,
       "name": "welcom",
       "prevSize": 32
     },
     {
-      "order": 129,
+      "order": 446,
       "name": "carrestitution",
       "prevSize": 32
     },
     {
-      "order": 130,
+      "order": 447,
       "name": "car_dealership",
       "prevSize": 32
     },
     {
-      "order": 131,
+      "order": 448,
       "name": "safety",
       "prevSize": 32
     },
     {
-      "order": 132,
+      "order": 449,
       "name": "tailored",
       "prevSize": 32
     },
     {
-      "order": 133,
+      "order": 450,
       "name": "flag",
       "prevSize": 32
     },
     {
-      "order": 134,
+      "order": 451,
       "name": "target",
       "prevSize": 32
     },
     {
-      "order": 135,
+      "order": 452,
       "name": "pannel",
       "prevSize": 32
     },
     {
-      "order": 136,
+      "order": 453,
       "name": "compas",
       "prevSize": 32
     },
     {
-      "order": 137,
+      "order": 454,
       "name": "pin",
       "prevSize": 32
     },
     {
-      "order": 138,
+      "order": 455,
       "name": "motorway",
       "prevSize": 32
     },
     {
-      "order": 139,
+      "order": 456,
       "name": "countryside",
       "prevSize": 32
     },
     {
-      "order": 140,
+      "order": 457,
       "name": "city",
       "prevSize": 32
     },
     {
-      "order": 141,
+      "order": 458,
       "name": "parking",
       "prevSize": 32
     },
     {
-      "order": 142,
+      "order": 459,
       "name": "mobility_help",
       "prevSize": 32
     },
     {
-      "order": 143,
+      "order": 460,
       "name": "tap_gesture_1",
       "prevSize": 32
     },
     {
-      "order": 144,
+      "order": 461,
       "name": "tap_gesture_2",
       "prevSize": 32
     },
     {
-      "order": 145,
+      "order": 462,
       "name": "tap_gesture_3",
       "prevSize": 32
     },
     {
-      "order": 146,
+      "order": 463,
       "name": "double_tab_gesture_1",
       "prevSize": 32
     },
     {
-      "order": 147,
+      "order": 464,
       "name": "double_tab_gesture_2",
       "prevSize": 32
     },
     {
-      "order": 148,
+      "order": 465,
       "name": "double_tab_gesture_3",
       "prevSize": 32
     },
     {
-      "order": 149,
+      "order": 466,
       "name": "swipe_gesture_1",
       "prevSize": 32
     },
     {
-      "order": 150,
+      "order": 467,
       "name": "swipe_gesture_2",
       "prevSize": 32
     },
     {
-      "order": 151,
+      "order": 468,
       "name": "swipe_gesture_3",
       "prevSize": 32
     },
     {
-      "order": 152,
+      "order": 469,
       "name": "hold_gesture_1",
       "prevSize": 32
     },
     {
-      "order": 153,
+      "order": 470,
       "name": "hold_gesture_2",
       "prevSize": 32
     },
     {
-      "order": 154,
+      "order": 471,
       "name": "hold_gesture_3",
       "prevSize": 32
     },
     {
-      "order": 155,
+      "order": 472,
       "name": "scroll_gesture_1",
       "prevSize": 32
     },
     {
-      "order": 156,
+      "order": 473,
       "name": "scroll_gesture_2",
       "prevSize": 32
     },
     {
-      "order": 157,
+      "order": 474,
       "name": "scroll_gesture_3",
       "prevSize": 32
     },
     {
-      "order": 158,
+      "order": 475,
       "name": "scale_gesture_1",
       "prevSize": 32
     },
     {
-      "order": 159,
+      "order": 476,
       "name": "scale_gesture_2",
       "prevSize": 32
     },
     {
-      "order": 160,
+      "order": 477,
       "name": "scale_gesture_3",
       "prevSize": 32
     },
     {
-      "order": 161,
+      "order": 478,
       "name": "drag_gesture_1",
       "prevSize": 32
     },
     {
-      "order": 162,
+      "order": 479,
       "name": "drag_gesture_2",
       "prevSize": 32
     },
     {
-      "order": 163,
+      "order": 480,
       "name": "drag_gesture_3",
       "prevSize": 32
     },
     {
-      "order": 164,
+      "order": 481,
       "name": "split_and_rotate_gesture_1",
       "prevSize": 32
     },
     {
-      "order": 165,
+      "order": 482,
       "name": "split_and_rotate_gesture_2",
       "prevSize": 32
     },
     {
-      "order": 166,
+      "order": 483,
       "name": "split_and_rotate_gesture_3",
       "prevSize": 32
     },
     {
-      "order": 167,
+      "order": 484,
       "name": "eco_2_chart",
       "prevSize": 32
     },
     {
-      "order": 168,
+      "order": 485,
       "name": "eco_2",
       "prevSize": 32
     },
     {
-      "order": 169,
+      "order": 486,
       "name": "fuel_station",
       "prevSize": 32
     },
     {
-      "order": 170,
+      "order": 487,
       "name": "fuel_excellent",
       "prevSize": 32
     },
     {
-      "order": 171,
+      "order": 488,
       "name": "fuel_very_good",
       "prevSize": 32
     },
     {
-      "order": 172,
+      "order": 489,
       "name": "fuel_good",
       "prevSize": 32
     },
     {
-      "order": 173,
+      "order": 490,
       "name": "fuel_low",
       "prevSize": 32
     },
     {
-      "order": 174,
+      "order": 491,
       "name": "fuel_very_low",
       "prevSize": 32
     },
     {
-      "order": 175,
+      "order": 492,
       "name": "no_fuel",
       "prevSize": 32
     },
     {
-      "order": 176,
+      "order": 493,
       "name": "fuel_compare",
       "prevSize": 32
     },
     {
-      "order": 177,
+      "order": 494,
       "name": "hybrid",
       "prevSize": 32
     },
     {
-      "order": 178,
+      "order": 495,
       "name": "plugging_hybrid",
       "prevSize": 32
     },
     {
-      "order": 179,
+      "order": 496,
       "name": "battery",
       "prevSize": 32
     },
     {
-      "order": 180,
+      "order": 497,
       "name": "battery_leasing",
       "prevSize": 32
     },
     {
-      "order": 181,
+      "order": 498,
       "name": "electric_power",
       "prevSize": 32
     },
     {
-      "order": 182,
+      "order": 499,
       "name": "electric_plug",
       "prevSize": 32
     },
     {
-      "order": 183,
+      "order": 500,
       "name": "not_plugged",
       "prevSize": 32
     },
     {
-      "order": 184,
+      "order": 501,
       "name": "plugged_ok",
       "prevSize": 32
     },
     {
-      "order": 185,
+      "order": 502,
       "name": "standard_charging_port",
       "prevSize": 32
     },
     {
-      "order": 186,
+      "order": 503,
       "name": "rapide_charging_port",
       "prevSize": 32
     },
     {
-      "order": 187,
+      "order": 504,
       "name": "wall_charging_port",
       "prevSize": 32
     },
     {
-      "order": 188,
+      "order": 505,
       "name": "electric_vehicule",
       "prevSize": 32
     },
     {
-      "order": 189,
+      "order": 506,
       "name": "battery_excellent",
       "prevSize": 32
     },
     {
-      "order": 190,
+      "order": 507,
       "name": "battery_very_good",
       "prevSize": 32
     },
     {
-      "order": 191,
+      "order": 508,
       "name": "battery_good",
       "prevSize": 32
     },
     {
-      "order": 192,
+      "order": 509,
       "name": "battery_low",
       "prevSize": 32
     },
     {
-      "order": 193,
+      "order": 510,
       "name": "battery_very_low",
       "prevSize": 32
     },
     {
-      "order": 194,
+      "order": 511,
       "name": "no_battery",
       "prevSize": 32
     },
     {
-      "order": 195,
+      "order": 512,
       "name": "engine",
       "prevSize": 32
     },
     {
-      "order": 196,
+      "order": 513,
       "name": "electric_engine",
       "prevSize": 32
     },
     {
-      "order": 197,
+      "order": 514,
       "name": "kw_engine",
       "prevSize": 32
     },
     {
-      "order": 198,
+      "order": 515,
       "name": "oil_engine",
       "prevSize": 32
     },
     {
-      "order": 199,
+      "order": 516,
       "name": "engine_capacity",
       "prevSize": 32
     },
     {
-      "order": 200,
+      "order": 517,
       "name": "car",
       "prevSize": 32
     },
     {
-      "order": 201,
+      "order": 518,
       "name": "car_park",
       "prevSize": 32
     },
     {
-      "order": 202,
+      "order": 519,
       "name": "car_range",
       "prevSize": 32
     },
     {
-      "order": 203,
+      "order": 520,
       "name": "hatchback",
       "prevSize": 32
     },
     {
-      "order": 204,
+      "order": 521,
       "name": "sedan",
       "prevSize": 32
     },
     {
-      "order": 205,
+      "order": 522,
       "name": "etate",
       "prevSize": 32
     },
     {
-      "order": 206,
+      "order": 523,
       "name": "mpv",
       "prevSize": 32
     },
     {
-      "order": 207,
+      "order": 524,
       "name": "suv",
       "prevSize": 32
     },
     {
-      "order": 208,
+      "order": 525,
       "name": "pick-up",
       "prevSize": 32
     },
     {
-      "order": 209,
+      "order": 526,
       "name": "coupe",
       "prevSize": 32
     },
     {
-      "order": 210,
+      "order": 527,
       "name": "roadster",
       "prevSize": 32
     },
     {
-      "order": 211,
+      "order": 528,
       "name": "race",
       "prevSize": 32
     },
     {
-      "order": 212,
+      "order": 529,
       "name": "passenger_cdv",
       "prevSize": 32
     },
     {
-      "order": 213,
+      "order": 530,
       "name": "cdv",
       "prevSize": 32
     },
     {
-      "order": 214,
+      "order": 531,
       "name": "shuttle",
       "prevSize": 32
     },
     {
-      "order": 215,
+      "order": 532,
       "name": "compact_van",
       "prevSize": 32
     },
     {
-      "order": 216,
+      "order": 533,
       "name": "minibus",
       "prevSize": 32
     },
     {
-      "order": 217,
+      "order": 534,
       "name": "large_van",
       "prevSize": 32
     },
     {
-      "order": 218,
+      "order": 535,
       "name": "chassis-cab",
       "prevSize": 32
     },
     {
-      "order": 219,
+      "order": 536,
       "name": "dump_truck",
       "prevSize": 32
     },
     {
-      "order": 220,
+      "order": 537,
       "name": "campervan",
       "prevSize": 32
     },
     {
-      "order": 221,
+      "order": 538,
       "name": "acceleration",
       "prevSize": 32
     },
     {
-      "order": 222,
+      "order": 539,
       "name": "braking",
       "prevSize": 32
     },
     {
-      "order": 223,
+      "order": 540,
       "name": "prgression",
       "prevSize": 32
     },
     {
-      "order": 224,
+      "order": 541,
       "name": "renault_rent",
       "prevSize": 32
     },
     {
-      "order": 225,
+      "order": 542,
       "name": "second_hand",
       "prevSize": 32
     },
     {
-      "order": 226,
+      "order": 543,
       "name": "refresh_configuration",
       "prevSize": 32
     },
     {
-      "order": 227,
+      "order": 544,
       "name": "start_again",
       "prevSize": 32
     },
     {
-      "order": 228,
+      "order": 545,
       "name": "interior",
       "prevSize": 32
     },
     {
-      "order": 229,
+      "order": 546,
       "name": "custom",
       "prevSize": 32
     },
     {
-      "order": 230,
+      "order": 547,
       "name": "favourite_car",
       "prevSize": 32
     },
     {
-      "order": 231,
+      "order": 548,
       "name": "intervention",
       "prevSize": 32
     },
     {
-      "order": 232,
+      "order": 549,
       "name": "mergency",
       "prevSize": 32
     },
     {
-      "order": 233,
+      "order": 550,
       "name": "crash",
       "prevSize": 32
     },
     {
-      "order": 234,
+      "order": 551,
       "name": "breakdown",
       "prevSize": 32
     },
     {
-      "order": 235,
+      "order": 552,
       "name": "car_elevator",
       "prevSize": 32
     },
     {
-      "order": 236,
+      "order": 553,
       "name": "car_review",
       "prevSize": 32
     },
     {
-      "order": 237,
+      "order": 554,
       "name": "draining",
       "prevSize": 32
     },
     {
-      "order": 238,
+      "order": 555,
       "name": "mechanical_1",
       "prevSize": 32
     },
     {
-      "order": 239,
+      "order": 556,
       "name": "mechanical_2",
       "prevSize": 32
     },
     {
-      "order": 240,
+      "order": 557,
       "name": "spray_gun",
       "prevSize": 32
     },
     {
-      "order": 241,
+      "order": 558,
       "name": "paint_bucket",
       "prevSize": 32
     },
     {
-      "order": 242,
+      "order": 559,
       "name": "spray",
       "prevSize": 32
     },
     {
-      "order": 243,
+      "order": 560,
       "name": "spare_parts",
       "prevSize": 32
     },
     {
-      "order": 244,
+      "order": 561,
       "name": "car_body",
       "prevSize": 32
     },
     {
-      "order": 245,
+      "order": 562,
       "name": "type_and_rim",
       "prevSize": 32
     },
     {
-      "order": 246,
+      "order": 563,
       "name": "braking_1",
       "prevSize": 32
     },
     {
-      "order": 247,
+      "order": 564,
       "name": "tyre",
       "prevSize": 32
     },
     {
-      "order": 248,
+      "order": 565,
       "name": "check_tyre",
       "prevSize": 32
     },
     {
-      "order": 249,
+      "order": 566,
       "name": "pumping",
       "prevSize": 32
     },
     {
-      "order": 250,
+      "order": 567,
       "name": "damper",
       "prevSize": 32
     },
     {
-      "order": 251,
+      "order": 568,
       "name": "piston",
       "prevSize": 32
     },
     {
-      "order": 252,
+      "order": 569,
       "name": "double_piston",
       "prevSize": 32
     },
     {
-      "order": 253,
+      "order": 570,
       "name": "timing_belt",
       "prevSize": 32
     },
     {
-      "order": 254,
+      "order": 571,
       "name": "oil_filter",
       "prevSize": 32
     },
     {
-      "order": 255,
+      "order": 572,
       "name": "exhaust",
       "prevSize": 32
     },
     {
-      "order": 256,
+      "order": 573,
       "name": "check_oil",
       "prevSize": 32
     },
     {
-      "order": 257,
+      "order": 574,
       "name": "cooling_liquid",
       "prevSize": 32
     },
     {
-      "order": 258,
+      "order": 575,
       "name": "steering_wheel",
       "prevSize": 32
     },
     {
-      "order": 259,
+      "order": 576,
       "name": "gearbox_1",
       "prevSize": 32
     },
     {
-      "order": 260,
+      "order": 577,
       "name": "gearbox_2",
       "prevSize": 32
     },
     {
-      "order": 261,
+      "order": 578,
       "name": "gearbox_3",
       "prevSize": 32
     },
     {
-      "order": 262,
+      "order": 579,
       "name": "gearbox_4",
       "prevSize": 32
     },
     {
-      "order": 263,
+      "order": 580,
       "name": "weight",
       "prevSize": 32
     },
     {
-      "order": 264,
+      "order": 581,
       "name": "keys",
       "prevSize": 32
     },
     {
-      "order": 265,
+      "order": 582,
       "name": "sellerie",
       "prevSize": 32
     },
     {
-      "order": 266,
+      "order": 583,
       "name": "air_conditionning",
       "prevSize": 32
     },
     {
-      "order": 267,
+      "order": 584,
       "name": "speeometer",
       "prevSize": 32
     },
     {
-      "order": 268,
+      "order": 585,
       "name": "windshield",
       "prevSize": 32
     },
     {
-      "order": 269,
+      "order": 586,
       "name": "windshield_wipers",
       "prevSize": 32
     },
     {
-      "order": 270,
+      "order": 587,
       "name": "windshield_wipers_ok",
       "prevSize": 32
     },
     {
-      "order": 271,
+      "order": 588,
       "name": "door",
       "prevSize": 32
     },
     {
-      "order": 272,
+      "order": 589,
       "name": "drame",
       "prevSize": 32
     },
     {
-      "order": 273,
+      "order": 590,
       "name": "snow_box",
       "prevSize": 32
     },
     {
-      "order": 274,
+      "order": 591,
       "name": "box_1",
       "prevSize": 32
     },
     {
-      "order": 275,
+      "order": 592,
       "name": "luggages",
       "prevSize": 32
     },
     {
-      "order": 276,
+      "order": 593,
       "name": "payload",
       "prevSize": 32
     },
     {
-      "order": 277,
+      "order": 594,
       "name": "bike",
       "prevSize": 32
     },
     {
-      "order": 278,
+      "order": 595,
       "name": "headlights",
       "prevSize": 32
     },
     {
-      "order": 279,
+      "order": 596,
       "name": "dimmed_headlights",
       "prevSize": 32
     },
     {
-      "order": 280,
+      "order": 597,
       "name": "front_fog_lights",
       "prevSize": 32
     },
     {
-      "order": 281,
+      "order": 598,
       "name": "no_lights",
       "prevSize": 32
     },
     {
-      "order": 282,
+      "order": 599,
       "name": "very_happy",
       "prevSize": 32
     },
     {
-      "order": 283,
+      "order": 600,
       "name": "happy",
       "prevSize": 32
     },
     {
-      "order": 284,
+      "order": 601,
       "name": "undecided",
       "prevSize": 32
     },
     {
-      "order": 285,
+      "order": 602,
       "name": "not_happy",
       "prevSize": 32
     },
     {
-      "order": 286,
+      "order": 603,
       "name": "angry",
       "prevSize": 32
     },
     {
-      "order": 287,
+      "order": 604,
       "name": "surprise",
       "prevSize": 32
     },
     {
-      "order": 288,
+      "order": 605,
       "name": "cool",
       "prevSize": 32
     },
     {
-      "order": 289,
+      "order": 606,
       "name": "garantee",
       "prevSize": 32
     },
     {
-      "order": 290,
+      "order": 607,
       "name": "prise",
       "prevSize": 32
     },
     {
-      "order": 291,
+      "order": 608,
       "name": "helmet",
       "prevSize": 32
     },
     {
-      "order": 292,
+      "order": 609,
       "name": "joystick",
       "prevSize": 32
     },
     {
-      "order": 293,
+      "order": 610,
       "name": "sunny",
       "prevSize": 32
     },
     {
-      "order": 294,
+      "order": 611,
       "name": "windy",
       "prevSize": 32
     },
     {
-      "order": 295,
+      "order": 612,
       "name": "cloudy_1",
       "prevSize": 32
     },
     {
-      "order": 296,
+      "order": 613,
       "name": "cloudy_2",
       "prevSize": 32
     },
     {
-      "order": 297,
+      "order": 614,
       "name": "raining_1",
       "prevSize": 32
     },
     {
-      "order": 298,
+      "order": 615,
       "name": "raining_2",
       "prevSize": 32
     },
     {
-      "order": 299,
+      "order": 616,
       "name": "lightning",
       "prevSize": 32
     },
     {
-      "order": 300,
+      "order": 617,
       "name": "partly_cloudy_1",
       "prevSize": 32
     },
     {
-      "order": 301,
+      "order": 618,
       "name": "partly_cloudy_2",
       "prevSize": 32
     },
     {
-      "order": 302,
+      "order": 619,
       "name": "partly_raining_1",
       "prevSize": 32
     },
     {
-      "order": 303,
+      "order": 620,
       "name": "artly_raining_2",
       "prevSize": 32
     },
     {
-      "order": 304,
+      "order": 621,
       "name": "partly_lightning_1",
       "prevSize": 32
     },
     {
-      "order": 305,
+      "order": 622,
       "name": "partly_lightning_2",
       "prevSize": 32
     },
     {
-      "order": 306,
+      "order": 623,
       "name": "snowing",
       "prevSize": 32
     },
     {
-      "order": 307,
+      "order": 624,
       "name": "partly_snowing_1",
       "prevSize": 32
     },
     {
-      "order": 308,
+      "order": 625,
       "name": "partly_snowing_2",
       "prevSize": 32
     },
     {
-      "order": 309,
+      "order": 626,
       "name": "snowy",
       "prevSize": 32
     }
@@ -1559,11 +1564,21 @@
     },
     "designer": "Purjus Communication",
     "designerURL": "http://purjus.fr",
-    "iconsHash": 1689959324
+    "iconsHash": 777871335
   },
   "height": 1024,
   "prevSize": 32,
   "icons": [
+    {
+      "paths": [
+        "M384 553.28c-16.252 23.556-34.385 44.026-54.697 62.1l-0.343 0.3h-38.72c-8-18.24-15.040-39.36-23.040-62.4h-62.4c-1.115 0.077-2.417 0.12-3.729 0.12-16.052 0-30.578-6.53-41.068-17.078l-0.003-0.003c-5.766-5.738-10.336-12.673-13.305-20.401l-0.135-0.399c-2.491-6.315-3.935-13.63-3.935-21.282 0-1.181 0.034-2.355 0.102-3.519l-0.007 0.161v-205.44c-0.012-0.468-0.019-1.019-0.019-1.572 0-8.177 1.533-15.996 4.329-23.184l-0.149 0.436c6.503-14.998 18.721-26.487 33.835-31.874l0.405-0.126c6.886-3.233 14.954-5.12 23.464-5.12 0.076 0 0.152 0 0.228 0l-0.012-0h359.68c2.346-0.352 5.054-0.553 7.809-0.553 30.574 0 55.36 24.786 55.36 55.36 0 3.247-0.28 6.43-0.816 9.524l0.047-0.33v204.48c0.099 1.29 0.156 2.794 0.156 4.311 0 7.412-1.348 14.51-3.812 21.061l0.136-0.413c-2.935 8.295-7.532 15.365-13.428 21.109l-0.012 0.011c-5.903 5.843-13.063 10.428-21.037 13.313l-0.403 0.127c-5.554 2.052-11.968 3.24-18.66 3.24-2.22 0-4.409-0.131-6.561-0.385l0.261 0.025zM313.6 582.4c18.972-19.029 36.049-39.969 50.91-62.499l0.93-1.501h193.92c1.923 0.453 4.131 0.712 6.4 0.712s4.477-0.259 6.596-0.75l-0.196 0.038c4.208-1.481 7.829-3.659 10.91-6.426l-0.030 0.026c2.951-2.939 5.332-6.448 6.962-10.349l0.078-0.211c1.267-3.145 2.002-6.793 2.002-10.612 0-0.77-0.030-1.533-0.089-2.288l0.006 0.1v-198.72c0.385-1.972 0.605-4.24 0.605-6.56s-0.22-4.588-0.641-6.784l0.036 0.224c-1.76-4.208-4.134-7.814-7.055-10.896l0.015 0.016c-3.108-3.106-6.991-5.436-11.335-6.675l-0.185-0.045c-1.923-0.458-4.131-0.72-6.4-0.72s-4.477 0.262-6.595 0.759l0.195-0.038h-351.36c-0.802-0.092-1.732-0.144-2.675-0.144-3.3 0-6.45 0.64-9.333 1.803l0.168-0.060c-4.012 1.395-7.439 3.585-10.239 6.399l-0.001 0.001c-2.884 2.709-5.168 6.020-6.655 9.737l-0.065 0.183c-1.233 2.855-1.949 6.179-1.949 9.67 0 0.426 0.011 0.849 0.032 1.269l-0.002-0.059v199.040c-0.054 0.629-0.084 1.362-0.084 2.102 0 3.629 0.737 7.087 2.069 10.23l-0.065-0.172c1.387 4.070 3.7 7.518 6.699 10.221l0.021 0.019c2.867 2.8 6.265 5.070 10.029 6.642l0.211 0.078c2.913 1.059 6.275 1.672 9.781 1.672 0.725 0 1.443-0.026 2.155-0.078l-0.095 0.006h86.080c5.431 25.84 11.499 47.5 18.788 68.591l-1.188-3.951zM433.92 590.4v81.6c-0.054 0.649-0.085 1.404-0.085 2.167 0 3.717 0.737 7.261 2.072 10.496l-0.067-0.183c1.536 4.177 3.944 7.718 7.021 10.542l0.019 0.018c3.009 2.823 6.646 5.016 10.676 6.342l0.204 0.058c1.923 0.453 4.131 0.712 6.4 0.712s4.477-0.259 6.596-0.75l-0.196 0.038h192c15.899 23.996 32.968 44.928 51.876 64.036l-0.036-0.036c6.566-17.38 12.849-38.802 17.65-60.779l0.59-3.221h85.44c0.035 0 0.076 0 0.118 0 4.305 0 8.447-0.703 12.315-2l-0.273 0.079c7.784-3.124 13.836-9.176 16.888-16.758l0.072-0.202c1.207-3.532 1.909-7.602 1.92-11.835l0-0.005v-197.44c-0.011-4.238-0.713-8.308-1.999-12.108l0.079 0.268c-1.684-3.85-3.948-7.139-6.721-9.921l0.001 0.001c-2.801-2.815-6.228-5.005-10.054-6.343l-0.186-0.057c-3.036-1.053-6.536-1.661-10.177-1.661-0.698 0-1.39 0.022-2.076 0.066l0.094-0.005h-150.4v-35.2h155.52c0.96-0.053 2.082-0.084 3.212-0.084 7.454 0 14.6 1.321 21.217 3.741l-0.429-0.137c8.141 3.064 15.083 7.64 20.793 13.433l0.007 0.007c5.725 5.658 10.287 12.48 13.301 20.084l0.139 0.396c2.668 6.342 4.218 13.713 4.218 21.447 0 0.898-0.021 1.791-0.062 2.679l0.005-0.126v205.76c0.066 1.027 0.103 2.227 0.103 3.435 0 7.516-1.448 14.694-4.079 21.271l0.136-0.386c-6.108 15.84-18.4 28.132-33.838 34.103l-0.402 0.137c-6.529 2.46-14.076 3.884-21.955 3.884-0.832 0-1.66-0.016-2.484-0.047l0.119 0.004h-64c-8 22.72-15.040 44.8-22.72 64h-36.48c-20.491-18.852-38.529-39.838-53.927-62.747l-0.793-1.253h-180.8c-1.485 0.13-3.212 0.204-4.957 0.204-7.168 0-14.044-1.247-20.425-3.536l0.422 0.132c-8.24-2.949-15.29-7.424-21.131-13.131l0.011 0.011c-10.609-10.453-17.181-24.978-17.181-41.037 0-1.775 0.080-3.532 0.237-5.266l-0.016 0.223v-85.12z"
+      ],
+      "grid": 0,
+      "tags": [
+        "speech_forum"
+      ],
+      "defaultCode": 59648
+    },
     {
       "paths": [
         "M846.4 456.32c-103.621-104.766-215.792-200.59-335.549-286.511l-7.811-5.329h-30.080c-127.402 91.344-239.463 187.159-342.813 291.61l-0.227 0.23v435.52h716.48v-435.52zM187.2 857.92c90.92-89.085 188.771-172.013 292.335-247.58l7.505-5.22c111.092 80.671 208.949 163.606 300.249 253.2l-0.409-0.4zM503.040 573.12h-30.080c-114.364 81.348-214.855 165.389-308.39 256.534l0.55-0.534v-357.76c97.586-97.78 202.692-187.964 314.408-269.643l7.512-5.237c120.1 87.392 225.945 178.214 324.081 276.721l0.079 0.079v358.72c-93.187-91.887-193.792-176.857-300.621-253.72l-7.539-5.16z"
@@ -1592,7 +1607,7 @@
       "tags": [
         "save"
       ],
-      "defaultCode": 59648
+      "defaultCode": 59649
     },
     {
       "paths": [
@@ -1602,7 +1617,7 @@
       "tags": [
         "print"
       ],
-      "defaultCode": 59649
+      "defaultCode": 59650
     },
     {
       "paths": [
@@ -1612,7 +1627,7 @@
       "tags": [
         "send"
       ],
-      "defaultCode": 59650
+      "defaultCode": 59651
     },
     {
       "paths": [
@@ -1622,7 +1637,7 @@
       "tags": [
         "file_download"
       ],
-      "defaultCode": 59651
+      "defaultCode": 59652
     },
     {
       "paths": [
@@ -1632,7 +1647,7 @@
       "tags": [
         "folder"
       ],
-      "defaultCode": 59652
+      "defaultCode": 59653
     },
     {
       "paths": [
@@ -1642,7 +1657,7 @@
       "tags": [
         "files"
       ],
-      "defaultCode": 59653
+      "defaultCode": 59654
     },
     {
       "paths": [
@@ -1652,7 +1667,7 @@
       "tags": [
         "sheet"
       ],
-      "defaultCode": 59654
+      "defaultCode": 59655
     },
     {
       "paths": [
@@ -1662,7 +1677,7 @@
       "tags": [
         "list_sheet"
       ],
-      "defaultCode": 59655
+      "defaultCode": 59656
     },
     {
       "paths": [
@@ -1672,7 +1687,7 @@
       "tags": [
         "faourite_sheet"
       ],
-      "defaultCode": 59656
+      "defaultCode": 59657
     },
     {
       "paths": [
@@ -1682,7 +1697,7 @@
       "tags": [
         "car_sheet"
       ],
-      "defaultCode": 59657
+      "defaultCode": 59658
     },
     {
       "paths": [
@@ -1692,7 +1707,7 @@
       "tags": [
         "email_sheet"
       ],
-      "defaultCode": 59658
+      "defaultCode": 59659
     },
     {
       "paths": [
@@ -1702,7 +1717,7 @@
       "tags": [
         "pdf_sheet"
       ],
-      "defaultCode": 59659
+      "defaultCode": 59660
     },
     {
       "paths": [
@@ -1712,7 +1727,7 @@
       "tags": [
         "settings_sheet"
       ],
-      "defaultCode": 59660
+      "defaultCode": 59661
     },
     {
       "paths": [
@@ -1722,7 +1737,7 @@
       "tags": [
         "cookies"
       ],
-      "defaultCode": 59661
+      "defaultCode": 59662
     },
     {
       "paths": [
@@ -1732,7 +1747,7 @@
       "tags": [
         "usb"
       ],
-      "defaultCode": 59662
+      "defaultCode": 59663
     },
     {
       "paths": [
@@ -1742,7 +1757,7 @@
       "tags": [
         "reload"
       ],
-      "defaultCode": 59663
+      "defaultCode": 59664
     },
     {
       "paths": [
@@ -1752,7 +1767,7 @@
       "tags": [
         "refresh"
       ],
-      "defaultCode": 59664
+      "defaultCode": 59665
     },
     {
       "paths": [
@@ -1762,7 +1777,7 @@
       "tags": [
         "edit"
       ],
-      "defaultCode": 59665
+      "defaultCode": 59666
     },
     {
       "paths": [
@@ -1772,7 +1787,7 @@
       "tags": [
         "check_list"
       ],
-      "defaultCode": 59666
+      "defaultCode": 59667
     },
     {
       "paths": [
@@ -1782,7 +1797,7 @@
       "tags": [
         "bullet_list"
       ],
-      "defaultCode": 59667
+      "defaultCode": 59668
     },
     {
       "paths": [
@@ -1792,7 +1807,7 @@
       "tags": [
         "check_list_ok"
       ],
-      "defaultCode": 59668
+      "defaultCode": 59669
     },
     {
       "paths": [
@@ -1802,7 +1817,7 @@
       "tags": [
         "ok"
       ],
-      "defaultCode": 59669
+      "defaultCode": 59670
     },
     {
       "paths": [
@@ -1812,7 +1827,7 @@
       "tags": [
         "no"
       ],
-      "defaultCode": 59670
+      "defaultCode": 59671
     },
     {
       "paths": [
@@ -1822,7 +1837,7 @@
       "tags": [
         "delete"
       ],
-      "defaultCode": 59671
+      "defaultCode": 59672
     },
     {
       "paths": [
@@ -1832,7 +1847,7 @@
       "tags": [
         "apps"
       ],
-      "defaultCode": 59672
+      "defaultCode": 59673
     },
     {
       "paths": [
@@ -1842,7 +1857,7 @@
       "tags": [
         "app"
       ],
-      "defaultCode": 59673
+      "defaultCode": 59674
     },
     {
       "paths": [
@@ -1852,7 +1867,7 @@
       "tags": [
         "home"
       ],
-      "defaultCode": 59674
+      "defaultCode": 59675
     },
     {
       "paths": [
@@ -1862,7 +1877,7 @@
       "tags": [
         "settings"
       ],
-      "defaultCode": 59675
+      "defaultCode": 59676
     },
     {
       "paths": [
@@ -1872,7 +1887,7 @@
       "tags": [
         "filter_1"
       ],
-      "defaultCode": 59676
+      "defaultCode": 59677
     },
     {
       "paths": [
@@ -1882,7 +1897,7 @@
       "tags": [
         "filter_2"
       ],
-      "defaultCode": 59677
+      "defaultCode": 59678
     },
     {
       "paths": [
@@ -1892,7 +1907,7 @@
       "tags": [
         "favourite"
       ],
-      "defaultCode": 59678
+      "defaultCode": 59679
     },
     {
       "paths": [
@@ -1902,7 +1917,7 @@
       "tags": [
         "bookmark"
       ],
-      "defaultCode": 59679
+      "defaultCode": 59680
     },
     {
       "paths": [
@@ -1912,7 +1927,7 @@
       "tags": [
         "new_bookmark"
       ],
-      "defaultCode": 59680
+      "defaultCode": 59681
     },
     {
       "paths": [
@@ -1922,7 +1937,7 @@
       "tags": [
         "view"
       ],
-      "defaultCode": 59681
+      "defaultCode": 59682
     },
     {
       "paths": [
@@ -1932,7 +1947,7 @@
       "tags": [
         "search"
       ],
-      "defaultCode": 59682
+      "defaultCode": 59683
     },
     {
       "paths": [
@@ -1942,7 +1957,7 @@
       "tags": [
         "zoom"
       ],
-      "defaultCode": 59683
+      "defaultCode": 59684
     },
     {
       "paths": [
@@ -1952,7 +1967,7 @@
       "tags": [
         "de-zoom"
       ],
-      "defaultCode": 59684
+      "defaultCode": 59685
     },
     {
       "paths": [
@@ -1962,7 +1977,7 @@
       "tags": [
         "increase_text"
       ],
-      "defaultCode": 59685
+      "defaultCode": 59686
     },
     {
       "paths": [
@@ -1972,7 +1987,7 @@
       "tags": [
         "decrease_text"
       ],
-      "defaultCode": 59686
+      "defaultCode": 59687
     },
     {
       "paths": [
@@ -1982,7 +1997,7 @@
       "tags": [
         "touch"
       ],
-      "defaultCode": 59687
+      "defaultCode": 59688
     },
     {
       "paths": [
@@ -1992,7 +2007,7 @@
       "tags": [
         "menu"
       ],
-      "defaultCode": 59688
+      "defaultCode": 59689
     },
     {
       "paths": [
@@ -2002,7 +2017,7 @@
       "tags": [
         "add"
       ],
-      "defaultCode": 59689
+      "defaultCode": 59690
     },
     {
       "paths": [
@@ -2012,7 +2027,7 @@
       "tags": [
         "more"
       ],
-      "defaultCode": 59690
+      "defaultCode": 59691
     },
     {
       "paths": [
@@ -2022,7 +2037,7 @@
       "tags": [
         "alert"
       ],
-      "defaultCode": 59691
+      "defaultCode": 59692
     },
     {
       "paths": [
@@ -2032,7 +2047,7 @@
       "tags": [
         "information"
       ],
-      "defaultCode": 59692
+      "defaultCode": 59693
     },
     {
       "paths": [
@@ -2042,7 +2057,7 @@
       "tags": [
         "question"
       ],
-      "defaultCode": 59693
+      "defaultCode": 59694
     },
     {
       "paths": [
@@ -2052,7 +2067,7 @@
       "tags": [
         "comment"
       ],
-      "defaultCode": 59694
+      "defaultCode": 59695
     },
     {
       "paths": [
@@ -2062,7 +2077,7 @@
       "tags": [
         "dialog"
       ],
-      "defaultCode": 59695
+      "defaultCode": 59696
     },
     {
       "paths": [
@@ -2072,7 +2087,7 @@
       "tags": [
         "user"
       ],
-      "defaultCode": 59696
+      "defaultCode": 59697
     },
     {
       "paths": [
@@ -2082,7 +2097,7 @@
       "tags": [
         "discussion"
       ],
-      "defaultCode": 59697
+      "defaultCode": 59698
     },
     {
       "paths": [
@@ -2092,7 +2107,7 @@
       "tags": [
         "group"
       ],
-      "defaultCode": 59698
+      "defaultCode": 59699
     },
     {
       "paths": [
@@ -2102,7 +2117,7 @@
       "tags": [
         "contact"
       ],
-      "defaultCode": 59699
+      "defaultCode": 59700
     },
     {
       "paths": [
@@ -2112,7 +2127,7 @@
       "tags": [
         "idea"
       ],
-      "defaultCode": 59700
+      "defaultCode": 59701
     },
     {
       "paths": [
@@ -2122,7 +2137,7 @@
       "tags": [
         "photo"
       ],
-      "defaultCode": 59701
+      "defaultCode": 59702
     },
     {
       "paths": [
@@ -2132,7 +2147,7 @@
       "tags": [
         "video"
       ],
-      "defaultCode": 59702
+      "defaultCode": 59703
     },
     {
       "paths": [
@@ -2142,7 +2157,7 @@
       "tags": [
         "play"
       ],
-      "defaultCode": 59703
+      "defaultCode": 59704
     },
     {
       "paths": [
@@ -2152,7 +2167,7 @@
       "tags": [
         "pause"
       ],
-      "defaultCode": 59704
+      "defaultCode": 59705
     },
     {
       "paths": [
@@ -2162,7 +2177,7 @@
       "tags": [
         "stop"
       ],
-      "defaultCode": 59705
+      "defaultCode": 59706
     },
     {
       "paths": [
@@ -2172,7 +2187,7 @@
       "tags": [
         "previous"
       ],
-      "defaultCode": 59706
+      "defaultCode": 59707
     },
     {
       "paths": [
@@ -2182,7 +2197,7 @@
       "tags": [
         "next"
       ],
-      "defaultCode": 59707
+      "defaultCode": 59708
     },
     {
       "paths": [
@@ -2192,7 +2207,7 @@
       "tags": [
         "minimize"
       ],
-      "defaultCode": 59708
+      "defaultCode": 59709
     },
     {
       "paths": [
@@ -2202,7 +2217,7 @@
       "tags": [
         "full_screen"
       ],
-      "defaultCode": 59709
+      "defaultCode": 59710
     },
     {
       "paths": [
@@ -2212,7 +2227,7 @@
       "tags": [
         "expand"
       ],
-      "defaultCode": 59710
+      "defaultCode": 59711
     },
     {
       "paths": [
@@ -2222,7 +2237,7 @@
       "tags": [
         "soud"
       ],
-      "defaultCode": 59711
+      "defaultCode": 59712
     },
     {
       "paths": [
@@ -2232,7 +2247,7 @@
       "tags": [
         "no_sound"
       ],
-      "defaultCode": 59712
+      "defaultCode": 59713
     },
     {
       "paths": [
@@ -2242,7 +2257,7 @@
       "tags": [
         "music"
       ],
-      "defaultCode": 59713
+      "defaultCode": 59714
     },
     {
       "paths": [
@@ -2252,7 +2267,7 @@
       "tags": [
         "podcast"
       ],
-      "defaultCode": 59714
+      "defaultCode": 59715
     },
     {
       "paths": [
@@ -2262,7 +2277,7 @@
       "tags": [
         "download"
       ],
-      "defaultCode": 59715
+      "defaultCode": 59716
     },
     {
       "paths": [
@@ -2272,7 +2287,7 @@
       "tags": [
         "upload"
       ],
-      "defaultCode": 59716
+      "defaultCode": 59717
     },
     {
       "paths": [
@@ -2282,7 +2297,7 @@
       "tags": [
         "links"
       ],
-      "defaultCode": 59717
+      "defaultCode": 59718
     },
     {
       "paths": [
@@ -2292,7 +2307,7 @@
       "tags": [
         "link_out"
       ],
-      "defaultCode": 59718
+      "defaultCode": 59719
     },
     {
       "paths": [
@@ -2302,7 +2317,7 @@
       "tags": [
         "share_1"
       ],
-      "defaultCode": 59719
+      "defaultCode": 59720
     },
     {
       "paths": [
@@ -2312,7 +2327,7 @@
       "tags": [
         "share_2"
       ],
-      "defaultCode": 59720
+      "defaultCode": 59721
     },
     {
       "paths": [
@@ -2322,7 +2337,7 @@
       "tags": [
         "arrow_1_left"
       ],
-      "defaultCode": 59721
+      "defaultCode": 59722
     },
     {
       "paths": [
@@ -2332,7 +2347,7 @@
       "tags": [
         "arrow_1_right"
       ],
-      "defaultCode": 59722
+      "defaultCode": 59723
     },
     {
       "paths": [
@@ -2342,7 +2357,7 @@
       "tags": [
         "arrow_1_up"
       ],
-      "defaultCode": 59723
+      "defaultCode": 59724
     },
     {
       "paths": [
@@ -2352,7 +2367,7 @@
       "tags": [
         "arrow_1_down"
       ],
-      "defaultCode": 59724
+      "defaultCode": 59725
     },
     {
       "paths": [
@@ -2362,7 +2377,7 @@
       "tags": [
         "arrow_1_up_left"
       ],
-      "defaultCode": 59725
+      "defaultCode": 59726
     },
     {
       "paths": [
@@ -2372,7 +2387,7 @@
       "tags": [
         "arrow_1_up_right"
       ],
-      "defaultCode": 59726
+      "defaultCode": 59727
     },
     {
       "paths": [
@@ -2382,7 +2397,7 @@
       "tags": [
         "arrow_1_down_right"
       ],
-      "defaultCode": 59727
+      "defaultCode": 59728
     },
     {
       "paths": [
@@ -2392,7 +2407,7 @@
       "tags": [
         "arrow_1_down_left"
       ],
-      "defaultCode": 59728
+      "defaultCode": 59729
     },
     {
       "paths": [
@@ -2402,7 +2417,7 @@
       "tags": [
         "arrow_2_left"
       ],
-      "defaultCode": 59729
+      "defaultCode": 59730
     },
     {
       "paths": [
@@ -2412,7 +2427,7 @@
       "tags": [
         "arrow_2_right"
       ],
-      "defaultCode": 59730
+      "defaultCode": 59731
     },
     {
       "paths": [
@@ -2422,7 +2437,7 @@
       "tags": [
         "arrow_2_up"
       ],
-      "defaultCode": 59731
+      "defaultCode": 59732
     },
     {
       "paths": [
@@ -2432,7 +2447,7 @@
       "tags": [
         "arrow_2_down"
       ],
-      "defaultCode": 59732
+      "defaultCode": 59733
     },
     {
       "paths": [
@@ -2442,7 +2457,7 @@
       "tags": [
         "arrow_2_up_left"
       ],
-      "defaultCode": 59733
+      "defaultCode": 59734
     },
     {
       "paths": [
@@ -2452,7 +2467,7 @@
       "tags": [
         "arrow_2_up_right"
       ],
-      "defaultCode": 59734
+      "defaultCode": 59735
     },
     {
       "paths": [
@@ -2462,7 +2477,7 @@
       "tags": [
         "arrow_2_down_right"
       ],
-      "defaultCode": 59735
+      "defaultCode": 59736
     },
     {
       "paths": [
@@ -2472,7 +2487,7 @@
       "tags": [
         "arrow_2_down_left"
       ],
-      "defaultCode": 59736
+      "defaultCode": 59737
     },
     {
       "paths": [
@@ -2482,7 +2497,7 @@
       "tags": [
         "slide"
       ],
-      "defaultCode": 59737
+      "defaultCode": 59738
     },
     {
       "paths": [
@@ -2492,7 +2507,7 @@
       "tags": [
         "scroll"
       ],
-      "defaultCode": 59738
+      "defaultCode": 59739
     },
     {
       "paths": [
@@ -2502,7 +2517,7 @@
       "tags": [
         "phone"
       ],
-      "defaultCode": 59739
+      "defaultCode": 59740
     },
     {
       "paths": [
@@ -2512,7 +2527,7 @@
       "tags": [
         "mobile"
       ],
-      "defaultCode": 59740
+      "defaultCode": 59741
     },
     {
       "paths": [
@@ -2522,7 +2537,7 @@
       "tags": [
         "tablet"
       ],
-      "defaultCode": 59741
+      "defaultCode": 59742
     },
     {
       "paths": [
@@ -2532,7 +2547,7 @@
       "tags": [
         "laptop"
       ],
-      "defaultCode": 59742
+      "defaultCode": 59743
     },
     {
       "paths": [
@@ -2542,7 +2557,7 @@
       "tags": [
         "desktop"
       ],
-      "defaultCode": 59743
+      "defaultCode": 59744
     },
     {
       "paths": [
@@ -2552,7 +2567,7 @@
       "tags": [
         "television"
       ],
-      "defaultCode": 59744
+      "defaultCode": 59745
     },
     {
       "paths": [
@@ -2562,7 +2577,7 @@
       "tags": [
         "wifi"
       ],
-      "defaultCode": 59745
+      "defaultCode": 59746
     },
     {
       "paths": [
@@ -2572,7 +2587,7 @@
       "tags": [
         "car-send"
       ],
-      "defaultCode": 59746
+      "defaultCode": 59747
     },
     {
       "paths": [
@@ -2582,7 +2597,7 @@
       "tags": [
         "car_received"
       ],
-      "defaultCode": 59747
+      "defaultCode": 59748
     },
     {
       "paths": [
@@ -2592,7 +2607,7 @@
       "tags": [
         "car_ko"
       ],
-      "defaultCode": 59748
+      "defaultCode": 59749
     },
     {
       "paths": [
@@ -2602,7 +2617,7 @@
       "tags": [
         "car_ok"
       ],
-      "defaultCode": 59749
+      "defaultCode": 59750
     },
     {
       "paths": [
@@ -2612,7 +2627,7 @@
       "tags": [
         "calendar"
       ],
-      "defaultCode": 59750
+      "defaultCode": 59751
     },
     {
       "paths": [
@@ -2622,7 +2637,7 @@
       "tags": [
         "reminder"
       ],
-      "defaultCode": 59751
+      "defaultCode": 59752
     },
     {
       "paths": [
@@ -2632,7 +2647,7 @@
       "tags": [
         "alarm"
       ],
-      "defaultCode": 59752
+      "defaultCode": 59753
     },
     {
       "paths": [
@@ -2642,7 +2657,7 @@
       "tags": [
         "stopwatch"
       ],
-      "defaultCode": 59753
+      "defaultCode": 59754
     },
     {
       "paths": [
@@ -2652,7 +2667,7 @@
       "tags": [
         "answer_in_4_hours"
       ],
-      "defaultCode": 59754
+      "defaultCode": 59755
     },
     {
       "paths": [
@@ -2662,7 +2677,7 @@
       "tags": [
         "data"
       ],
-      "defaultCode": 59755
+      "defaultCode": 59756
     },
     {
       "paths": [
@@ -2672,7 +2687,7 @@
       "tags": [
         "chart"
       ],
-      "defaultCode": 59756
+      "defaultCode": 59757
     },
     {
       "paths": [
@@ -2682,7 +2697,7 @@
       "tags": [
         "organisation"
       ],
-      "defaultCode": 59757
+      "defaultCode": 59758
     },
     {
       "paths": [
@@ -2692,7 +2707,7 @@
       "tags": [
         "planet"
       ],
-      "defaultCode": 59758
+      "defaultCode": 59759
     },
     {
       "paths": [
@@ -2702,7 +2717,7 @@
       "tags": [
         "factory"
       ],
-      "defaultCode": 59759
+      "defaultCode": 59760
     },
     {
       "paths": [
@@ -2712,7 +2727,7 @@
       "tags": [
         "foundy"
       ],
-      "defaultCode": 59760
+      "defaultCode": 59761
     },
     {
       "paths": [
@@ -2722,7 +2737,7 @@
       "tags": [
         "basket"
       ],
-      "defaultCode": 59761
+      "defaultCode": 59762
     },
     {
       "paths": [
@@ -2732,7 +2747,7 @@
       "tags": [
         "credit_card"
       ],
-      "defaultCode": 59762
+      "defaultCode": 59763
     },
     {
       "paths": [
@@ -2742,7 +2757,7 @@
       "tags": [
         "euro"
       ],
-      "defaultCode": 59763
+      "defaultCode": 59764
     },
     {
       "paths": [
@@ -2752,7 +2767,7 @@
       "tags": [
         "money"
       ],
-      "defaultCode": 59764
+      "defaultCode": 59765
     },
     {
       "paths": [
@@ -2762,7 +2777,7 @@
       "tags": [
         "coins"
       ],
-      "defaultCode": 59765
+      "defaultCode": 59766
     },
     {
       "paths": [
@@ -2772,7 +2787,7 @@
       "tags": [
         "reset_coins"
       ],
-      "defaultCode": 59766
+      "defaultCode": 59767
     },
     {
       "paths": [
@@ -2782,7 +2797,7 @@
       "tags": [
         "saing"
       ],
-      "defaultCode": 59767
+      "defaultCode": 59768
     },
     {
       "paths": [
@@ -2792,7 +2807,7 @@
       "tags": [
         "calculator"
       ],
-      "defaultCode": 59768
+      "defaultCode": 59769
     },
     {
       "paths": [
@@ -2802,7 +2817,7 @@
       "tags": [
         "promo"
       ],
-      "defaultCode": 59769
+      "defaultCode": 59770
     },
     {
       "paths": [
@@ -2812,7 +2827,7 @@
       "tags": [
         "sales"
       ],
-      "defaultCode": 59770
+      "defaultCode": 59771
     },
     {
       "paths": [
@@ -2822,7 +2837,7 @@
       "tags": [
         "shop_bag"
       ],
-      "defaultCode": 59771
+      "defaultCode": 59772
     },
     {
       "paths": [
@@ -2832,7 +2847,7 @@
       "tags": [
         "box"
       ],
-      "defaultCode": 59772
+      "defaultCode": 59773
     },
     {
       "paths": [
@@ -2842,7 +2857,7 @@
       "tags": [
         "car_servicing"
       ],
-      "defaultCode": 59773
+      "defaultCode": 59774
     },
     {
       "paths": [
@@ -2852,7 +2867,7 @@
       "tags": [
         "welcom"
       ],
-      "defaultCode": 59774
+      "defaultCode": 59775
     },
     {
       "paths": [
@@ -2862,7 +2877,7 @@
       "tags": [
         "carrestitution"
       ],
-      "defaultCode": 59775
+      "defaultCode": 59776
     },
     {
       "paths": [
@@ -2872,7 +2887,7 @@
       "tags": [
         "car_dealership"
       ],
-      "defaultCode": 59776
+      "defaultCode": 59777
     },
     {
       "paths": [
@@ -2882,7 +2897,7 @@
       "tags": [
         "safety"
       ],
-      "defaultCode": 59777
+      "defaultCode": 59778
     },
     {
       "paths": [
@@ -2892,7 +2907,7 @@
       "tags": [
         "tailored"
       ],
-      "defaultCode": 59778
+      "defaultCode": 59779
     },
     {
       "paths": [
@@ -2902,7 +2917,7 @@
       "tags": [
         "flag"
       ],
-      "defaultCode": 59779
+      "defaultCode": 59780
     },
     {
       "paths": [
@@ -2912,7 +2927,7 @@
       "tags": [
         "target"
       ],
-      "defaultCode": 59780
+      "defaultCode": 59781
     },
     {
       "paths": [
@@ -2922,7 +2937,7 @@
       "tags": [
         "pannel"
       ],
-      "defaultCode": 59781
+      "defaultCode": 59782
     },
     {
       "paths": [
@@ -2932,7 +2947,7 @@
       "tags": [
         "compas"
       ],
-      "defaultCode": 59782
+      "defaultCode": 59783
     },
     {
       "paths": [
@@ -2942,7 +2957,7 @@
       "tags": [
         "pin"
       ],
-      "defaultCode": 59783
+      "defaultCode": 59784
     },
     {
       "paths": [
@@ -2952,7 +2967,7 @@
       "tags": [
         "motorway"
       ],
-      "defaultCode": 59784
+      "defaultCode": 59785
     },
     {
       "paths": [
@@ -2962,7 +2977,7 @@
       "tags": [
         "countryside"
       ],
-      "defaultCode": 59785
+      "defaultCode": 59786
     },
     {
       "paths": [
@@ -2972,7 +2987,7 @@
       "tags": [
         "city"
       ],
-      "defaultCode": 59786
+      "defaultCode": 59787
     },
     {
       "paths": [
@@ -2982,7 +2997,7 @@
       "tags": [
         "parking"
       ],
-      "defaultCode": 59787
+      "defaultCode": 59788
     },
     {
       "paths": [
@@ -2992,7 +3007,7 @@
       "tags": [
         "mobility_help"
       ],
-      "defaultCode": 59788
+      "defaultCode": 59789
     },
     {
       "paths": [
@@ -3002,7 +3017,7 @@
       "tags": [
         "tap_gesture_1"
       ],
-      "defaultCode": 59789
+      "defaultCode": 59790
     },
     {
       "paths": [
@@ -3012,7 +3027,7 @@
       "tags": [
         "tap_gesture_2"
       ],
-      "defaultCode": 59790
+      "defaultCode": 59791
     },
     {
       "paths": [
@@ -3022,7 +3037,7 @@
       "tags": [
         "tap_gesture_3"
       ],
-      "defaultCode": 59791
+      "defaultCode": 59792
     },
     {
       "paths": [
@@ -3032,7 +3047,7 @@
       "tags": [
         "double_tab_gesture_1"
       ],
-      "defaultCode": 59792
+      "defaultCode": 59793
     },
     {
       "paths": [
@@ -3042,7 +3057,7 @@
       "tags": [
         "double_tab_gesture_2"
       ],
-      "defaultCode": 59793
+      "defaultCode": 59794
     },
     {
       "paths": [
@@ -3052,7 +3067,7 @@
       "tags": [
         "double_tab_gesture_3"
       ],
-      "defaultCode": 59794
+      "defaultCode": 59795
     },
     {
       "paths": [
@@ -3062,7 +3077,7 @@
       "tags": [
         "swipe_gesture_1"
       ],
-      "defaultCode": 59795
+      "defaultCode": 59796
     },
     {
       "paths": [
@@ -3072,7 +3087,7 @@
       "tags": [
         "swipe_gesture_2"
       ],
-      "defaultCode": 59796
+      "defaultCode": 59797
     },
     {
       "paths": [
@@ -3082,7 +3097,7 @@
       "tags": [
         "swipe_gesture_3"
       ],
-      "defaultCode": 59797
+      "defaultCode": 59798
     },
     {
       "paths": [
@@ -3092,7 +3107,7 @@
       "tags": [
         "hold_gesture_1"
       ],
-      "defaultCode": 59798
+      "defaultCode": 59799
     },
     {
       "paths": [
@@ -3102,7 +3117,7 @@
       "tags": [
         "hold_gesture_2"
       ],
-      "defaultCode": 59799
+      "defaultCode": 59800
     },
     {
       "paths": [
@@ -3112,7 +3127,7 @@
       "tags": [
         "hold_gesture_3"
       ],
-      "defaultCode": 59800
+      "defaultCode": 59801
     },
     {
       "paths": [
@@ -3122,7 +3137,7 @@
       "tags": [
         "scroll_gesture_1"
       ],
-      "defaultCode": 59801
+      "defaultCode": 59802
     },
     {
       "paths": [
@@ -3132,7 +3147,7 @@
       "tags": [
         "scroll_gesture_2"
       ],
-      "defaultCode": 59802
+      "defaultCode": 59803
     },
     {
       "paths": [
@@ -3142,7 +3157,7 @@
       "tags": [
         "scroll_gesture_3"
       ],
-      "defaultCode": 59803
+      "defaultCode": 59804
     },
     {
       "paths": [
@@ -3152,7 +3167,7 @@
       "tags": [
         "scale_gesture_1"
       ],
-      "defaultCode": 59804
+      "defaultCode": 59805
     },
     {
       "paths": [
@@ -3162,7 +3177,7 @@
       "tags": [
         "scale_gesture_2"
       ],
-      "defaultCode": 59805
+      "defaultCode": 59806
     },
     {
       "paths": [
@@ -3172,7 +3187,7 @@
       "tags": [
         "scale_gesture_3"
       ],
-      "defaultCode": 59806
+      "defaultCode": 59807
     },
     {
       "paths": [
@@ -3182,7 +3197,7 @@
       "tags": [
         "drag_gesture_1"
       ],
-      "defaultCode": 59807
+      "defaultCode": 59808
     },
     {
       "paths": [
@@ -3192,7 +3207,7 @@
       "tags": [
         "drag_gesture_2"
       ],
-      "defaultCode": 59808
+      "defaultCode": 59809
     },
     {
       "paths": [
@@ -3202,7 +3217,7 @@
       "tags": [
         "drag_gesture_3"
       ],
-      "defaultCode": 59809
+      "defaultCode": 59810
     },
     {
       "paths": [
@@ -3212,7 +3227,7 @@
       "tags": [
         "split_and_rotate_gesture_1"
       ],
-      "defaultCode": 59810
+      "defaultCode": 59811
     },
     {
       "paths": [
@@ -3222,7 +3237,7 @@
       "tags": [
         "split_and_rotate_gesture_2"
       ],
-      "defaultCode": 59811
+      "defaultCode": 59812
     },
     {
       "paths": [
@@ -3232,7 +3247,7 @@
       "tags": [
         "split_and_rotate_gesture_3"
       ],
-      "defaultCode": 59812
+      "defaultCode": 59813
     },
     {
       "paths": [
@@ -3242,7 +3257,7 @@
       "tags": [
         "eco_2_chart"
       ],
-      "defaultCode": 59813
+      "defaultCode": 59814
     },
     {
       "paths": [
@@ -3252,7 +3267,7 @@
       "tags": [
         "eco_2"
       ],
-      "defaultCode": 59814
+      "defaultCode": 59815
     },
     {
       "paths": [
@@ -3262,7 +3277,7 @@
       "tags": [
         "fuel_station"
       ],
-      "defaultCode": 59815
+      "defaultCode": 59816
     },
     {
       "paths": [
@@ -3272,7 +3287,7 @@
       "tags": [
         "fuel_excellent"
       ],
-      "defaultCode": 59816
+      "defaultCode": 59817
     },
     {
       "paths": [
@@ -3282,7 +3297,7 @@
       "tags": [
         "fuel_very_good"
       ],
-      "defaultCode": 59817
+      "defaultCode": 59818
     },
     {
       "paths": [
@@ -3292,7 +3307,7 @@
       "tags": [
         "fuel_good"
       ],
-      "defaultCode": 59818
+      "defaultCode": 59819
     },
     {
       "paths": [
@@ -3302,7 +3317,7 @@
       "tags": [
         "fuel_low"
       ],
-      "defaultCode": 59819
+      "defaultCode": 59820
     },
     {
       "paths": [
@@ -3312,7 +3327,7 @@
       "tags": [
         "fuel_very_low"
       ],
-      "defaultCode": 59820
+      "defaultCode": 59821
     },
     {
       "paths": [
@@ -3322,7 +3337,7 @@
       "tags": [
         "no_fuel"
       ],
-      "defaultCode": 59821
+      "defaultCode": 59822
     },
     {
       "paths": [
@@ -3332,7 +3347,7 @@
       "tags": [
         "fuel_compare"
       ],
-      "defaultCode": 59822
+      "defaultCode": 59823
     },
     {
       "paths": [
@@ -3342,7 +3357,7 @@
       "tags": [
         "hybrid"
       ],
-      "defaultCode": 59823
+      "defaultCode": 59824
     },
     {
       "paths": [
@@ -3352,7 +3367,7 @@
       "tags": [
         "plugging_hybrid"
       ],
-      "defaultCode": 59824
+      "defaultCode": 59825
     },
     {
       "paths": [
@@ -3362,7 +3377,7 @@
       "tags": [
         "battery"
       ],
-      "defaultCode": 59825
+      "defaultCode": 59826
     },
     {
       "paths": [
@@ -3372,7 +3387,7 @@
       "tags": [
         "battery_leasing"
       ],
-      "defaultCode": 59826
+      "defaultCode": 59827
     },
     {
       "paths": [
@@ -3382,7 +3397,7 @@
       "tags": [
         "electric_power"
       ],
-      "defaultCode": 59827
+      "defaultCode": 59828
     },
     {
       "paths": [
@@ -3392,7 +3407,7 @@
       "tags": [
         "electric_plug"
       ],
-      "defaultCode": 59828
+      "defaultCode": 59829
     },
     {
       "paths": [
@@ -3402,7 +3417,7 @@
       "tags": [
         "not_plugged"
       ],
-      "defaultCode": 59829
+      "defaultCode": 59830
     },
     {
       "paths": [
@@ -3412,7 +3427,7 @@
       "tags": [
         "plugged_ok"
       ],
-      "defaultCode": 59830
+      "defaultCode": 59831
     },
     {
       "paths": [
@@ -3422,7 +3437,7 @@
       "tags": [
         "standard_charging_port"
       ],
-      "defaultCode": 59831
+      "defaultCode": 59832
     },
     {
       "paths": [
@@ -3432,7 +3447,7 @@
       "tags": [
         "rapide_charging_port"
       ],
-      "defaultCode": 59832
+      "defaultCode": 59833
     },
     {
       "paths": [
@@ -3442,7 +3457,7 @@
       "tags": [
         "wall_charging_port"
       ],
-      "defaultCode": 59833
+      "defaultCode": 59834
     },
     {
       "paths": [
@@ -3452,7 +3467,7 @@
       "tags": [
         "electric_vehicule"
       ],
-      "defaultCode": 59834
+      "defaultCode": 59835
     },
     {
       "paths": [
@@ -3462,7 +3477,7 @@
       "tags": [
         "battery_excellent"
       ],
-      "defaultCode": 59835
+      "defaultCode": 59836
     },
     {
       "paths": [
@@ -3472,7 +3487,7 @@
       "tags": [
         "battery_very_good"
       ],
-      "defaultCode": 59836
+      "defaultCode": 59837
     },
     {
       "paths": [
@@ -3482,7 +3497,7 @@
       "tags": [
         "battery_good"
       ],
-      "defaultCode": 59837
+      "defaultCode": 59838
     },
     {
       "paths": [
@@ -3492,7 +3507,7 @@
       "tags": [
         "battery_low"
       ],
-      "defaultCode": 59838
+      "defaultCode": 59839
     },
     {
       "paths": [
@@ -3502,7 +3517,7 @@
       "tags": [
         "battery_very_low"
       ],
-      "defaultCode": 59839
+      "defaultCode": 59840
     },
     {
       "paths": [
@@ -3512,7 +3527,7 @@
       "tags": [
         "no_battery"
       ],
-      "defaultCode": 59840
+      "defaultCode": 59841
     },
     {
       "paths": [
@@ -3522,7 +3537,7 @@
       "tags": [
         "engine"
       ],
-      "defaultCode": 59841
+      "defaultCode": 59842
     },
     {
       "paths": [
@@ -3532,7 +3547,7 @@
       "tags": [
         "electric_engine"
       ],
-      "defaultCode": 59842
+      "defaultCode": 59843
     },
     {
       "paths": [
@@ -3542,7 +3557,7 @@
       "tags": [
         "kw_engine"
       ],
-      "defaultCode": 59843
+      "defaultCode": 59844
     },
     {
       "paths": [
@@ -3552,7 +3567,7 @@
       "tags": [
         "oil_engine"
       ],
-      "defaultCode": 59844
+      "defaultCode": 59845
     },
     {
       "paths": [
@@ -3562,7 +3577,7 @@
       "tags": [
         "engine_capacity"
       ],
-      "defaultCode": 59845
+      "defaultCode": 59846
     },
     {
       "paths": [
@@ -3572,7 +3587,7 @@
       "tags": [
         "car"
       ],
-      "defaultCode": 59846
+      "defaultCode": 59847
     },
     {
       "paths": [
@@ -3582,7 +3597,7 @@
       "tags": [
         "car_park"
       ],
-      "defaultCode": 59847
+      "defaultCode": 59848
     },
     {
       "paths": [
@@ -3592,7 +3607,7 @@
       "tags": [
         "car_range"
       ],
-      "defaultCode": 59848
+      "defaultCode": 59849
     },
     {
       "paths": [
@@ -3602,7 +3617,7 @@
       "tags": [
         "hatchback"
       ],
-      "defaultCode": 59849
+      "defaultCode": 59850
     },
     {
       "paths": [
@@ -3612,7 +3627,7 @@
       "tags": [
         "sedan"
       ],
-      "defaultCode": 59850
+      "defaultCode": 59851
     },
     {
       "paths": [
@@ -3622,7 +3637,7 @@
       "tags": [
         "etate"
       ],
-      "defaultCode": 59851
+      "defaultCode": 59852
     },
     {
       "paths": [
@@ -3632,7 +3647,7 @@
       "tags": [
         "mpv"
       ],
-      "defaultCode": 59852
+      "defaultCode": 59853
     },
     {
       "paths": [
@@ -3642,7 +3657,7 @@
       "tags": [
         "suv"
       ],
-      "defaultCode": 59853
+      "defaultCode": 59854
     },
     {
       "paths": [
@@ -3652,7 +3667,7 @@
       "tags": [
         "pick-up"
       ],
-      "defaultCode": 59854
+      "defaultCode": 59855
     },
     {
       "paths": [
@@ -3662,7 +3677,7 @@
       "tags": [
         "coupe"
       ],
-      "defaultCode": 59855
+      "defaultCode": 59856
     },
     {
       "paths": [
@@ -3672,7 +3687,7 @@
       "tags": [
         "roadster"
       ],
-      "defaultCode": 59856
+      "defaultCode": 59857
     },
     {
       "paths": [
@@ -3682,7 +3697,7 @@
       "tags": [
         "race"
       ],
-      "defaultCode": 59857
+      "defaultCode": 59858
     },
     {
       "paths": [
@@ -3692,7 +3707,7 @@
       "tags": [
         "passenger_cdv"
       ],
-      "defaultCode": 59858
+      "defaultCode": 59859
     },
     {
       "paths": [
@@ -3702,7 +3717,7 @@
       "tags": [
         "cdv"
       ],
-      "defaultCode": 59859
+      "defaultCode": 59860
     },
     {
       "paths": [
@@ -3712,7 +3727,7 @@
       "tags": [
         "shuttle"
       ],
-      "defaultCode": 59860
+      "defaultCode": 59861
     },
     {
       "paths": [
@@ -3722,7 +3737,7 @@
       "tags": [
         "compact_van"
       ],
-      "defaultCode": 59861
+      "defaultCode": 59862
     },
     {
       "paths": [
@@ -3732,7 +3747,7 @@
       "tags": [
         "minibus"
       ],
-      "defaultCode": 59862
+      "defaultCode": 59863
     },
     {
       "paths": [
@@ -3742,7 +3757,7 @@
       "tags": [
         "large_van"
       ],
-      "defaultCode": 59863
+      "defaultCode": 59864
     },
     {
       "paths": [
@@ -3752,7 +3767,7 @@
       "tags": [
         "chassis-cab"
       ],
-      "defaultCode": 59864
+      "defaultCode": 59865
     },
     {
       "paths": [
@@ -3762,7 +3777,7 @@
       "tags": [
         "dump_truck"
       ],
-      "defaultCode": 59865
+      "defaultCode": 59866
     },
     {
       "paths": [
@@ -3772,7 +3787,7 @@
       "tags": [
         "campervan"
       ],
-      "defaultCode": 59866
+      "defaultCode": 59867
     },
     {
       "paths": [
@@ -3782,7 +3797,7 @@
       "tags": [
         "acceleration"
       ],
-      "defaultCode": 59867
+      "defaultCode": 59868
     },
     {
       "paths": [
@@ -3792,7 +3807,7 @@
       "tags": [
         "braking"
       ],
-      "defaultCode": 59868
+      "defaultCode": 59869
     },
     {
       "paths": [
@@ -3802,7 +3817,7 @@
       "tags": [
         "prgression"
       ],
-      "defaultCode": 59869
+      "defaultCode": 59870
     },
     {
       "paths": [
@@ -3812,7 +3827,7 @@
       "tags": [
         "renault_rent"
       ],
-      "defaultCode": 59870
+      "defaultCode": 59871
     },
     {
       "paths": [
@@ -3822,7 +3837,7 @@
       "tags": [
         "second_hand"
       ],
-      "defaultCode": 59871
+      "defaultCode": 59872
     },
     {
       "paths": [
@@ -3832,7 +3847,7 @@
       "tags": [
         "refresh_configuration"
       ],
-      "defaultCode": 59872
+      "defaultCode": 59873
     },
     {
       "paths": [
@@ -3842,7 +3857,7 @@
       "tags": [
         "start_again"
       ],
-      "defaultCode": 59873
+      "defaultCode": 59874
     },
     {
       "paths": [
@@ -3852,7 +3867,7 @@
       "tags": [
         "interior"
       ],
-      "defaultCode": 59874
+      "defaultCode": 59875
     },
     {
       "paths": [
@@ -3862,7 +3877,7 @@
       "tags": [
         "custom"
       ],
-      "defaultCode": 59875
+      "defaultCode": 59876
     },
     {
       "paths": [
@@ -3872,7 +3887,7 @@
       "tags": [
         "favourite_car"
       ],
-      "defaultCode": 59876
+      "defaultCode": 59877
     },
     {
       "paths": [
@@ -3882,7 +3897,7 @@
       "tags": [
         "intervention"
       ],
-      "defaultCode": 59877
+      "defaultCode": 59878
     },
     {
       "paths": [
@@ -3892,7 +3907,7 @@
       "tags": [
         "mergency"
       ],
-      "defaultCode": 59878
+      "defaultCode": 59879
     },
     {
       "paths": [
@@ -3902,7 +3917,7 @@
       "tags": [
         "crash"
       ],
-      "defaultCode": 59879
+      "defaultCode": 59880
     },
     {
       "paths": [
@@ -3912,7 +3927,7 @@
       "tags": [
         "breakdown"
       ],
-      "defaultCode": 59880
+      "defaultCode": 59881
     },
     {
       "paths": [
@@ -3922,7 +3937,7 @@
       "tags": [
         "car_elevator"
       ],
-      "defaultCode": 59881
+      "defaultCode": 59882
     },
     {
       "paths": [
@@ -3932,7 +3947,7 @@
       "tags": [
         "car_review"
       ],
-      "defaultCode": 59882
+      "defaultCode": 59883
     },
     {
       "paths": [
@@ -3942,7 +3957,7 @@
       "tags": [
         "draining"
       ],
-      "defaultCode": 59883
+      "defaultCode": 59884
     },
     {
       "paths": [
@@ -3952,7 +3967,7 @@
       "tags": [
         "mechanical_1"
       ],
-      "defaultCode": 59884
+      "defaultCode": 59885
     },
     {
       "paths": [
@@ -3962,7 +3977,7 @@
       "tags": [
         "mechanical_2"
       ],
-      "defaultCode": 59885
+      "defaultCode": 59886
     },
     {
       "paths": [
@@ -3972,7 +3987,7 @@
       "tags": [
         "spray_gun"
       ],
-      "defaultCode": 59886
+      "defaultCode": 59887
     },
     {
       "paths": [
@@ -3982,7 +3997,7 @@
       "tags": [
         "paint_bucket"
       ],
-      "defaultCode": 59887
+      "defaultCode": 59888
     },
     {
       "paths": [
@@ -3992,7 +4007,7 @@
       "tags": [
         "spray"
       ],
-      "defaultCode": 59888
+      "defaultCode": 59889
     },
     {
       "paths": [
@@ -4002,7 +4017,7 @@
       "tags": [
         "spare_parts"
       ],
-      "defaultCode": 59889
+      "defaultCode": 59890
     },
     {
       "paths": [
@@ -4012,7 +4027,7 @@
       "tags": [
         "car_body"
       ],
-      "defaultCode": 59890
+      "defaultCode": 59891
     },
     {
       "paths": [
@@ -4022,7 +4037,7 @@
       "tags": [
         "type_and_rim"
       ],
-      "defaultCode": 59891
+      "defaultCode": 59892
     },
     {
       "paths": [
@@ -4032,7 +4047,7 @@
       "tags": [
         "braking_1"
       ],
-      "defaultCode": 59892
+      "defaultCode": 59893
     },
     {
       "paths": [
@@ -4042,7 +4057,7 @@
       "tags": [
         "tyre"
       ],
-      "defaultCode": 59893
+      "defaultCode": 59894
     },
     {
       "paths": [
@@ -4052,7 +4067,7 @@
       "tags": [
         "check_tyre"
       ],
-      "defaultCode": 59894
+      "defaultCode": 59895
     },
     {
       "paths": [
@@ -4062,7 +4077,7 @@
       "tags": [
         "pumping"
       ],
-      "defaultCode": 59895
+      "defaultCode": 59896
     },
     {
       "paths": [
@@ -4072,7 +4087,7 @@
       "tags": [
         "damper"
       ],
-      "defaultCode": 59896
+      "defaultCode": 59897
     },
     {
       "paths": [
@@ -4082,7 +4097,7 @@
       "tags": [
         "piston"
       ],
-      "defaultCode": 59897
+      "defaultCode": 59898
     },
     {
       "paths": [
@@ -4092,7 +4107,7 @@
       "tags": [
         "double_piston"
       ],
-      "defaultCode": 59898
+      "defaultCode": 59899
     },
     {
       "paths": [
@@ -4102,7 +4117,7 @@
       "tags": [
         "timing_belt"
       ],
-      "defaultCode": 59899
+      "defaultCode": 59900
     },
     {
       "paths": [
@@ -4112,7 +4127,7 @@
       "tags": [
         "oil_filter"
       ],
-      "defaultCode": 59900
+      "defaultCode": 59901
     },
     {
       "paths": [
@@ -4122,7 +4137,7 @@
       "tags": [
         "exhaust"
       ],
-      "defaultCode": 59901
+      "defaultCode": 59902
     },
     {
       "paths": [
@@ -4132,7 +4147,7 @@
       "tags": [
         "check_oil"
       ],
-      "defaultCode": 59902
+      "defaultCode": 59903
     },
     {
       "paths": [
@@ -4142,7 +4157,7 @@
       "tags": [
         "cooling_liquid"
       ],
-      "defaultCode": 59903
+      "defaultCode": 59904
     },
     {
       "paths": [
@@ -4152,7 +4167,7 @@
       "tags": [
         "steering_wheel"
       ],
-      "defaultCode": 59904
+      "defaultCode": 59905
     },
     {
       "paths": [
@@ -4162,7 +4177,7 @@
       "tags": [
         "gearbox_1"
       ],
-      "defaultCode": 59905
+      "defaultCode": 59906
     },
     {
       "paths": [
@@ -4172,7 +4187,7 @@
       "tags": [
         "gearbox_2"
       ],
-      "defaultCode": 59906
+      "defaultCode": 59907
     },
     {
       "paths": [
@@ -4182,7 +4197,7 @@
       "tags": [
         "gearbox_3"
       ],
-      "defaultCode": 59907
+      "defaultCode": 59908
     },
     {
       "paths": [
@@ -4192,7 +4207,7 @@
       "tags": [
         "gearbox_4"
       ],
-      "defaultCode": 59908
+      "defaultCode": 59909
     },
     {
       "paths": [
@@ -4202,7 +4217,7 @@
       "tags": [
         "weight"
       ],
-      "defaultCode": 59909
+      "defaultCode": 59910
     },
     {
       "paths": [
@@ -4212,7 +4227,7 @@
       "tags": [
         "keys"
       ],
-      "defaultCode": 59910
+      "defaultCode": 59911
     },
     {
       "paths": [
@@ -4222,7 +4237,7 @@
       "tags": [
         "sellerie"
       ],
-      "defaultCode": 59911
+      "defaultCode": 59912
     },
     {
       "paths": [
@@ -4232,7 +4247,7 @@
       "tags": [
         "air_conditionning"
       ],
-      "defaultCode": 59912
+      "defaultCode": 59913
     },
     {
       "paths": [
@@ -4242,7 +4257,7 @@
       "tags": [
         "speeometer"
       ],
-      "defaultCode": 59913
+      "defaultCode": 59914
     },
     {
       "paths": [
@@ -4252,7 +4267,7 @@
       "tags": [
         "windshield"
       ],
-      "defaultCode": 59914
+      "defaultCode": 59915
     },
     {
       "paths": [
@@ -4262,7 +4277,7 @@
       "tags": [
         "windshield_wipers"
       ],
-      "defaultCode": 59915
+      "defaultCode": 59916
     },
     {
       "paths": [
@@ -4272,7 +4287,7 @@
       "tags": [
         "windshield_wipers_ok"
       ],
-      "defaultCode": 59916
+      "defaultCode": 59917
     },
     {
       "paths": [
@@ -4282,7 +4297,7 @@
       "tags": [
         "door"
       ],
-      "defaultCode": 59917
+      "defaultCode": 59918
     },
     {
       "paths": [
@@ -4292,7 +4307,7 @@
       "tags": [
         "drame"
       ],
-      "defaultCode": 59918
+      "defaultCode": 59919
     },
     {
       "paths": [
@@ -4302,7 +4317,7 @@
       "tags": [
         "snow_box"
       ],
-      "defaultCode": 59919
+      "defaultCode": 59920
     },
     {
       "paths": [
@@ -4312,7 +4327,7 @@
       "tags": [
         "box_1"
       ],
-      "defaultCode": 59920
+      "defaultCode": 59921
     },
     {
       "paths": [
@@ -4322,7 +4337,7 @@
       "tags": [
         "luggages"
       ],
-      "defaultCode": 59921
+      "defaultCode": 59922
     },
     {
       "paths": [
@@ -4332,7 +4347,7 @@
       "tags": [
         "payload"
       ],
-      "defaultCode": 59922
+      "defaultCode": 59923
     },
     {
       "paths": [
@@ -4342,7 +4357,7 @@
       "tags": [
         "bike"
       ],
-      "defaultCode": 59923
+      "defaultCode": 59924
     },
     {
       "paths": [
@@ -4352,7 +4367,7 @@
       "tags": [
         "headlights"
       ],
-      "defaultCode": 59924
+      "defaultCode": 59925
     },
     {
       "paths": [
@@ -4362,7 +4377,7 @@
       "tags": [
         "dimmed_headlights"
       ],
-      "defaultCode": 59925
+      "defaultCode": 59926
     },
     {
       "paths": [
@@ -4372,7 +4387,7 @@
       "tags": [
         "front_fog_lights"
       ],
-      "defaultCode": 59926
+      "defaultCode": 59927
     },
     {
       "paths": [
@@ -4382,7 +4397,7 @@
       "tags": [
         "no_lights"
       ],
-      "defaultCode": 59927
+      "defaultCode": 59928
     },
     {
       "paths": [
@@ -4392,7 +4407,7 @@
       "tags": [
         "very_happy"
       ],
-      "defaultCode": 59928
+      "defaultCode": 59929
     },
     {
       "paths": [
@@ -4402,7 +4417,7 @@
       "tags": [
         "happy"
       ],
-      "defaultCode": 59929
+      "defaultCode": 59930
     },
     {
       "paths": [
@@ -4412,7 +4427,7 @@
       "tags": [
         "undecided"
       ],
-      "defaultCode": 59930
+      "defaultCode": 59931
     },
     {
       "paths": [
@@ -4422,7 +4437,7 @@
       "tags": [
         "not_happy"
       ],
-      "defaultCode": 59931
+      "defaultCode": 59932
     },
     {
       "paths": [
@@ -4432,7 +4447,7 @@
       "tags": [
         "angry"
       ],
-      "defaultCode": 59932
+      "defaultCode": 59933
     },
     {
       "paths": [
@@ -4442,7 +4457,7 @@
       "tags": [
         "surprise"
       ],
-      "defaultCode": 59933
+      "defaultCode": 59934
     },
     {
       "paths": [
@@ -4452,7 +4467,7 @@
       "tags": [
         "cool"
       ],
-      "defaultCode": 59934
+      "defaultCode": 59935
     },
     {
       "paths": [
@@ -4462,7 +4477,7 @@
       "tags": [
         "garantee"
       ],
-      "defaultCode": 59935
+      "defaultCode": 59936
     },
     {
       "paths": [
@@ -4472,7 +4487,7 @@
       "tags": [
         "prise"
       ],
-      "defaultCode": 59936
+      "defaultCode": 59937
     },
     {
       "paths": [
@@ -4482,7 +4497,7 @@
       "tags": [
         "helmet"
       ],
-      "defaultCode": 59937
+      "defaultCode": 59938
     },
     {
       "paths": [
@@ -4492,7 +4507,7 @@
       "tags": [
         "joystick"
       ],
-      "defaultCode": 59938
+      "defaultCode": 59939
     },
     {
       "paths": [
@@ -4502,7 +4517,7 @@
       "tags": [
         "sunny"
       ],
-      "defaultCode": 59939
+      "defaultCode": 59940
     },
     {
       "paths": [
@@ -4512,7 +4527,7 @@
       "tags": [
         "windy"
       ],
-      "defaultCode": 59940
+      "defaultCode": 59941
     },
     {
       "paths": [
@@ -4522,7 +4537,7 @@
       "tags": [
         "cloudy_1"
       ],
-      "defaultCode": 59941
+      "defaultCode": 59942
     },
     {
       "paths": [
@@ -4532,7 +4547,7 @@
       "tags": [
         "cloudy_2"
       ],
-      "defaultCode": 59942
+      "defaultCode": 59943
     },
     {
       "paths": [
@@ -4542,7 +4557,7 @@
       "tags": [
         "raining_1"
       ],
-      "defaultCode": 59943
+      "defaultCode": 59944
     },
     {
       "paths": [
@@ -4552,7 +4567,7 @@
       "tags": [
         "raining_2"
       ],
-      "defaultCode": 59944
+      "defaultCode": 59945
     },
     {
       "paths": [
@@ -4562,7 +4577,7 @@
       "tags": [
         "lightning"
       ],
-      "defaultCode": 59945
+      "defaultCode": 59946
     },
     {
       "paths": [
@@ -4572,7 +4587,7 @@
       "tags": [
         "partly_cloudy_1"
       ],
-      "defaultCode": 59946
+      "defaultCode": 59947
     },
     {
       "paths": [
@@ -4582,7 +4597,7 @@
       "tags": [
         "partly_cloudy_2"
       ],
-      "defaultCode": 59947
+      "defaultCode": 59948
     },
     {
       "paths": [
@@ -4592,7 +4607,7 @@
       "tags": [
         "partly_raining_1"
       ],
-      "defaultCode": 59948
+      "defaultCode": 59949
     },
     {
       "paths": [
@@ -4602,7 +4617,7 @@
       "tags": [
         "artly_raining_2"
       ],
-      "defaultCode": 59949
+      "defaultCode": 59950
     },
     {
       "paths": [
@@ -4612,7 +4627,7 @@
       "tags": [
         "partly_lightning_1"
       ],
-      "defaultCode": 59950
+      "defaultCode": 59951
     },
     {
       "paths": [
@@ -4622,7 +4637,7 @@
       "tags": [
         "partly_lightning_2"
       ],
-      "defaultCode": 59951
+      "defaultCode": 59952
     },
     {
       "paths": [
@@ -4632,7 +4647,7 @@
       "tags": [
         "snowing"
       ],
-      "defaultCode": 59952
+      "defaultCode": 59953
     },
     {
       "paths": [
@@ -4642,7 +4657,7 @@
       "tags": [
         "partly_snowing_1"
       ],
-      "defaultCode": 59953
+      "defaultCode": 59954
     },
     {
       "paths": [
@@ -4652,7 +4667,7 @@
       "tags": [
         "partly_snowing_2"
       ],
-      "defaultCode": 59954
+      "defaultCode": 59955
     },
     {
       "paths": [
@@ -4662,7 +4677,7 @@
       "tags": [
         "snowy"
       ],
-      "defaultCode": 59955
+      "defaultCode": 59958
     }
   ],
   "colorThemes": [],
@@ -4677,7 +4692,7 @@
       "metadata": {
         "fontFamily": "RenaultIcon",
         "majorVersion": 1,
-        "minorVersion": 1,
+        "minorVersion": 2,
         "description": "Renault Design System 2020 Icon Library",
         "copyright": "All Right Reserved",
         "designer": "Purjus Communication",
