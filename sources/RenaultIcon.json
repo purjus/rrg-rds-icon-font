@@ -1,1552 +1,1552 @@
 {
   "selection": [
     {
-      "order": 310,
+      "order": 2,
       "name": "read",
       "prevSize": 32
     },
     {
-      "order": 311,
+      "order": 3,
       "name": "log_out",
       "prevSize": 32
     },
     {
-      "order": 2,
+      "order": 4,
       "name": "save",
       "prevSize": 32
     },
     {
-      "order": 3,
+      "order": 5,
       "name": "print",
       "prevSize": 32
     },
     {
-      "order": 4,
+      "order": 6,
       "name": "send",
       "prevSize": 32
     },
     {
-      "order": 5,
+      "order": 7,
       "name": "file_download",
       "prevSize": 32
     },
     {
-      "order": 6,
+      "order": 8,
       "name": "folder",
       "prevSize": 32
     },
     {
-      "order": 7,
+      "order": 9,
       "name": "files",
       "prevSize": 32
     },
     {
-      "order": 8,
+      "order": 10,
       "name": "sheet",
       "prevSize": 32
     },
     {
-      "order": 9,
+      "order": 11,
       "name": "list_sheet",
       "prevSize": 32
     },
     {
-      "order": 10,
+      "order": 12,
       "name": "faourite_sheet",
       "prevSize": 32
     },
     {
-      "order": 11,
+      "order": 13,
       "name": "car_sheet",
       "prevSize": 32
     },
     {
-      "order": 12,
+      "order": 14,
       "name": "email_sheet",
       "prevSize": 32
     },
     {
-      "order": 13,
+      "order": 15,
       "name": "pdf_sheet",
       "prevSize": 32
     },
     {
-      "order": 14,
+      "order": 16,
       "name": "settings_sheet",
       "prevSize": 32
     },
     {
-      "order": 15,
+      "order": 17,
       "name": "cookies",
       "prevSize": 32
     },
     {
-      "order": 16,
+      "order": 18,
       "name": "usb",
       "prevSize": 32
     },
     {
-      "order": 17,
+      "order": 19,
       "name": "reload",
       "prevSize": 32
     },
     {
-      "order": 18,
+      "order": 20,
       "name": "refresh",
       "prevSize": 32
     },
     {
-      "order": 19,
+      "order": 21,
       "name": "edit",
       "prevSize": 32
     },
     {
-      "order": 20,
+      "order": 22,
       "name": "check_list",
       "prevSize": 32
     },
     {
-      "order": 21,
+      "order": 23,
       "name": "bullet_list",
       "prevSize": 32
     },
     {
-      "order": 22,
+      "order": 24,
       "name": "check_list_ok",
       "prevSize": 32
     },
     {
-      "order": 23,
+      "order": 25,
       "name": "ok",
       "prevSize": 32
     },
     {
-      "order": 24,
+      "order": 26,
       "name": "no",
       "prevSize": 32
     },
     {
-      "order": 25,
+      "order": 27,
       "name": "delete",
       "prevSize": 32
     },
     {
-      "order": 26,
+      "order": 28,
       "name": "apps",
       "prevSize": 32
     },
     {
-      "order": 27,
+      "order": 29,
       "name": "app",
       "prevSize": 32
     },
     {
-      "order": 28,
+      "order": 30,
       "name": "home",
       "prevSize": 32
     },
     {
-      "order": 29,
+      "order": 31,
       "name": "settings",
       "prevSize": 32
     },
     {
-      "order": 30,
+      "order": 32,
       "name": "filter_1",
       "prevSize": 32
     },
     {
-      "order": 31,
+      "order": 33,
       "name": "filter_2",
       "prevSize": 32
     },
     {
-      "order": 32,
+      "order": 34,
       "name": "favourite",
       "prevSize": 32
     },
     {
-      "order": 33,
+      "order": 35,
       "name": "bookmark",
       "prevSize": 32
     },
     {
-      "order": 34,
+      "order": 36,
       "name": "new_bookmark",
       "prevSize": 32
     },
     {
-      "order": 35,
+      "order": 37,
       "name": "view",
       "prevSize": 32
     },
     {
-      "order": 36,
+      "order": 38,
       "name": "search",
       "prevSize": 32
     },
     {
-      "order": 37,
+      "order": 39,
       "name": "zoom",
       "prevSize": 32
     },
     {
-      "order": 38,
+      "order": 40,
       "name": "de-zoom",
       "prevSize": 32
     },
     {
-      "order": 39,
+      "order": 41,
       "name": "increase_text",
       "prevSize": 32
     },
     {
-      "order": 40,
+      "order": 42,
       "name": "decrease_text",
       "prevSize": 32
     },
     {
-      "order": 41,
+      "order": 43,
       "name": "touch",
       "prevSize": 32
     },
     {
-      "order": 42,
+      "order": 44,
       "name": "menu",
       "prevSize": 32
     },
     {
-      "order": 43,
+      "order": 45,
       "name": "add",
       "prevSize": 32
     },
     {
-      "order": 44,
+      "order": 46,
       "name": "more",
       "prevSize": 32
     },
     {
-      "order": 45,
+      "order": 47,
       "name": "alert",
       "prevSize": 32
     },
     {
-      "order": 46,
+      "order": 48,
       "name": "information",
       "prevSize": 32
     },
     {
-      "order": 47,
+      "order": 49,
       "name": "question",
       "prevSize": 32
     },
     {
-      "order": 48,
+      "order": 50,
       "name": "comment",
       "prevSize": 32
     },
     {
-      "order": 49,
+      "order": 51,
       "name": "dialog",
       "prevSize": 32
     },
     {
-      "order": 50,
+      "order": 52,
       "name": "user",
       "prevSize": 32
     },
     {
-      "order": 51,
+      "order": 53,
       "name": "discussion",
       "prevSize": 32
     },
     {
-      "order": 52,
+      "order": 54,
       "name": "group",
       "prevSize": 32
     },
     {
-      "order": 53,
+      "order": 55,
       "name": "contact",
       "prevSize": 32
     },
     {
-      "order": 54,
+      "order": 56,
       "name": "idea",
       "prevSize": 32
     },
     {
-      "order": 55,
+      "order": 57,
       "name": "photo",
       "prevSize": 32
     },
     {
-      "order": 56,
+      "order": 58,
       "name": "video",
       "prevSize": 32
     },
     {
-      "order": 57,
+      "order": 59,
       "name": "play",
       "prevSize": 32
     },
     {
-      "order": 58,
+      "order": 60,
       "name": "pause",
       "prevSize": 32
     },
     {
-      "order": 59,
+      "order": 61,
       "name": "stop",
       "prevSize": 32
     },
     {
-      "order": 60,
+      "order": 62,
       "name": "previous",
       "prevSize": 32
     },
     {
-      "order": 61,
+      "order": 63,
       "name": "next",
       "prevSize": 32
     },
     {
-      "order": 62,
+      "order": 64,
       "name": "minimize",
       "prevSize": 32
     },
     {
-      "order": 63,
+      "order": 65,
       "name": "full_screen",
       "prevSize": 32
     },
     {
-      "order": 64,
+      "order": 66,
       "name": "expand",
       "prevSize": 32
     },
     {
-      "order": 65,
+      "order": 67,
       "name": "soud",
       "prevSize": 32
     },
     {
-      "order": 66,
+      "order": 68,
       "name": "no_sound",
       "prevSize": 32
     },
     {
-      "order": 67,
+      "order": 69,
       "name": "music",
       "prevSize": 32
     },
     {
-      "order": 68,
+      "order": 70,
       "name": "podcast",
       "prevSize": 32
     },
     {
-      "order": 69,
+      "order": 71,
       "name": "download",
       "prevSize": 32
     },
     {
-      "order": 70,
+      "order": 72,
       "name": "upload",
       "prevSize": 32
     },
     {
-      "order": 71,
+      "order": 73,
       "name": "links",
       "prevSize": 32
     },
     {
-      "order": 72,
+      "order": 74,
       "name": "link_out",
       "prevSize": 32
     },
     {
-      "order": 73,
+      "order": 75,
       "name": "share_1",
       "prevSize": 32
     },
     {
-      "order": 74,
+      "order": 76,
       "name": "share_2",
       "prevSize": 32
     },
     {
-      "order": 75,
+      "order": 77,
       "name": "arrow_1_left",
       "prevSize": 32
     },
     {
-      "order": 76,
+      "order": 78,
       "name": "arrow_1_right",
       "prevSize": 32
     },
     {
-      "order": 77,
+      "order": 79,
       "name": "arrow_1_up",
       "prevSize": 32
     },
     {
-      "order": 78,
+      "order": 80,
       "name": "arrow_1_down",
       "prevSize": 32
     },
     {
-      "order": 79,
+      "order": 81,
       "name": "arrow_1_up_left",
       "prevSize": 32
     },
     {
-      "order": 80,
+      "order": 82,
       "name": "arrow_1_up_right",
       "prevSize": 32
     },
     {
-      "order": 81,
+      "order": 83,
       "name": "arrow_1_down_right",
       "prevSize": 32
     },
     {
-      "order": 82,
+      "order": 84,
       "name": "arrow_1_down_left",
       "prevSize": 32
     },
     {
-      "order": 83,
+      "order": 85,
       "name": "arrow_2_left",
       "prevSize": 32
     },
     {
-      "order": 84,
+      "order": 86,
       "name": "arrow_2_right",
       "prevSize": 32
     },
     {
-      "order": 85,
+      "order": 87,
       "name": "arrow_2_up",
       "prevSize": 32
     },
     {
-      "order": 86,
+      "order": 88,
       "name": "arrow_2_down",
       "prevSize": 32
     },
     {
-      "order": 87,
+      "order": 89,
       "name": "arrow_2_up_left",
       "prevSize": 32
     },
     {
-      "order": 88,
+      "order": 90,
       "name": "arrow_2_up_right",
       "prevSize": 32
     },
     {
-      "order": 89,
+      "order": 91,
       "name": "arrow_2_down_right",
       "prevSize": 32
     },
     {
-      "order": 90,
+      "order": 92,
       "name": "arrow_2_down_left",
       "prevSize": 32
     },
     {
-      "order": 91,
+      "order": 93,
       "name": "slide",
       "prevSize": 32
     },
     {
-      "order": 92,
+      "order": 94,
       "name": "scroll",
       "prevSize": 32
     },
     {
-      "order": 93,
+      "order": 95,
       "name": "phone",
       "prevSize": 32
     },
     {
-      "order": 94,
+      "order": 96,
       "name": "mobile",
       "prevSize": 32
     },
     {
-      "order": 95,
+      "order": 97,
       "name": "tablet",
       "prevSize": 32
     },
     {
-      "order": 96,
+      "order": 98,
       "name": "laptop",
       "prevSize": 32
     },
     {
-      "order": 97,
+      "order": 99,
       "name": "desktop",
       "prevSize": 32
     },
     {
-      "order": 98,
+      "order": 100,
       "name": "television",
       "prevSize": 32
     },
     {
-      "order": 99,
+      "order": 101,
       "name": "wifi",
       "prevSize": 32
     },
     {
-      "order": 100,
+      "order": 102,
       "name": "car-send",
       "prevSize": 32
     },
     {
-      "order": 101,
+      "order": 103,
       "name": "car_received",
       "prevSize": 32
     },
     {
-      "order": 102,
+      "order": 104,
       "name": "car_ko",
       "prevSize": 32
     },
     {
-      "order": 103,
+      "order": 105,
       "name": "car_ok",
       "prevSize": 32
     },
     {
-      "order": 104,
+      "order": 106,
       "name": "calendar",
       "prevSize": 32
     },
     {
-      "order": 105,
+      "order": 107,
       "name": "reminder",
       "prevSize": 32
     },
     {
-      "order": 106,
+      "order": 108,
       "name": "alarm",
       "prevSize": 32
     },
     {
-      "order": 107,
+      "order": 109,
       "name": "stopwatch",
       "prevSize": 32
     },
     {
-      "order": 108,
+      "order": 110,
       "name": "answer_in_4_hours",
       "prevSize": 32
     },
     {
-      "order": 109,
+      "order": 111,
       "name": "data",
       "prevSize": 32
     },
     {
-      "order": 110,
+      "order": 112,
       "name": "chart",
       "prevSize": 32
     },
     {
-      "order": 111,
+      "order": 113,
       "name": "organisation",
       "prevSize": 32
     },
     {
-      "order": 112,
+      "order": 114,
       "name": "planet",
       "prevSize": 32
     },
     {
-      "order": 113,
+      "order": 115,
       "name": "factory",
       "prevSize": 32
     },
     {
-      "order": 114,
+      "order": 116,
       "name": "foundy",
       "prevSize": 32
     },
     {
-      "order": 115,
+      "order": 117,
       "name": "basket",
       "prevSize": 32
     },
     {
-      "order": 116,
+      "order": 118,
       "name": "credit_card",
       "prevSize": 32
     },
     {
-      "order": 117,
+      "order": 119,
       "name": "euro",
       "prevSize": 32
     },
     {
-      "order": 118,
+      "order": 120,
       "name": "money",
       "prevSize": 32
     },
     {
-      "order": 119,
+      "order": 121,
       "name": "coins",
       "prevSize": 32
     },
     {
-      "order": 120,
+      "order": 122,
       "name": "reset_coins",
       "prevSize": 32
     },
     {
-      "order": 121,
+      "order": 123,
       "name": "saing",
       "prevSize": 32
     },
     {
-      "order": 122,
+      "order": 124,
       "name": "calculator",
       "prevSize": 32
     },
     {
-      "order": 123,
+      "order": 125,
       "name": "promo",
       "prevSize": 32
     },
     {
-      "order": 124,
+      "order": 126,
       "name": "sales",
       "prevSize": 32
     },
     {
-      "order": 125,
+      "order": 127,
       "name": "shop_bag",
       "prevSize": 32
     },
     {
-      "order": 126,
+      "order": 128,
       "name": "box",
       "prevSize": 32
     },
     {
-      "order": 127,
+      "order": 129,
       "name": "car_servicing",
       "prevSize": 32
     },
     {
-      "order": 128,
+      "order": 130,
       "name": "welcom",
       "prevSize": 32
     },
     {
-      "order": 129,
+      "order": 131,
       "name": "carrestitution",
       "prevSize": 32
     },
     {
-      "order": 130,
+      "order": 132,
       "name": "car_dealership",
       "prevSize": 32
     },
     {
-      "order": 131,
+      "order": 133,
       "name": "safety",
       "prevSize": 32
     },
     {
-      "order": 132,
+      "order": 134,
       "name": "tailored",
       "prevSize": 32
     },
     {
-      "order": 133,
+      "order": 135,
       "name": "flag",
       "prevSize": 32
     },
     {
-      "order": 134,
+      "order": 136,
       "name": "target",
       "prevSize": 32
     },
     {
-      "order": 135,
+      "order": 137,
       "name": "pannel",
       "prevSize": 32
     },
     {
-      "order": 136,
+      "order": 138,
       "name": "compas",
       "prevSize": 32
     },
     {
-      "order": 137,
+      "order": 139,
       "name": "pin",
       "prevSize": 32
     },
     {
-      "order": 138,
+      "order": 140,
       "name": "motorway",
       "prevSize": 32
     },
     {
-      "order": 139,
+      "order": 141,
       "name": "countryside",
       "prevSize": 32
     },
     {
-      "order": 140,
+      "order": 142,
       "name": "city",
       "prevSize": 32
     },
     {
-      "order": 141,
+      "order": 143,
       "name": "parking",
       "prevSize": 32
     },
     {
-      "order": 142,
+      "order": 144,
       "name": "mobility_help",
       "prevSize": 32
     },
     {
-      "order": 143,
+      "order": 145,
       "name": "tap_gesture_1",
       "prevSize": 32
     },
     {
-      "order": 144,
+      "order": 146,
       "name": "tap_gesture_2",
       "prevSize": 32
     },
     {
-      "order": 145,
+      "order": 147,
       "name": "tap_gesture_3",
       "prevSize": 32
     },
     {
-      "order": 146,
+      "order": 148,
       "name": "double_tab_gesture_1",
       "prevSize": 32
     },
     {
-      "order": 147,
+      "order": 149,
       "name": "double_tab_gesture_2",
       "prevSize": 32
     },
     {
-      "order": 148,
+      "order": 150,
       "name": "double_tab_gesture_3",
       "prevSize": 32
     },
     {
-      "order": 149,
+      "order": 151,
       "name": "swipe_gesture_1",
       "prevSize": 32
     },
     {
-      "order": 150,
+      "order": 152,
       "name": "swipe_gesture_2",
       "prevSize": 32
     },
     {
-      "order": 151,
+      "order": 153,
       "name": "swipe_gesture_3",
       "prevSize": 32
     },
     {
-      "order": 152,
+      "order": 154,
       "name": "hold_gesture_1",
       "prevSize": 32
     },
     {
-      "order": 153,
+      "order": 155,
       "name": "hold_gesture_2",
       "prevSize": 32
     },
     {
-      "order": 154,
+      "order": 156,
       "name": "hold_gesture_3",
       "prevSize": 32
     },
     {
-      "order": 155,
+      "order": 157,
       "name": "scroll_gesture_1",
       "prevSize": 32
     },
     {
-      "order": 156,
+      "order": 158,
       "name": "scroll_gesture_2",
       "prevSize": 32
     },
     {
-      "order": 157,
+      "order": 159,
       "name": "scroll_gesture_3",
       "prevSize": 32
     },
     {
-      "order": 158,
+      "order": 160,
       "name": "scale_gesture_1",
       "prevSize": 32
     },
     {
-      "order": 159,
+      "order": 161,
       "name": "scale_gesture_2",
       "prevSize": 32
     },
     {
-      "order": 160,
+      "order": 162,
       "name": "scale_gesture_3",
       "prevSize": 32
     },
     {
-      "order": 161,
+      "order": 163,
       "name": "drag_gesture_1",
       "prevSize": 32
     },
     {
-      "order": 162,
+      "order": 164,
       "name": "drag_gesture_2",
       "prevSize": 32
     },
     {
-      "order": 163,
+      "order": 165,
       "name": "drag_gesture_3",
       "prevSize": 32
     },
     {
-      "order": 164,
+      "order": 166,
       "name": "split_and_rotate_gesture_1",
       "prevSize": 32
     },
     {
-      "order": 165,
+      "order": 167,
       "name": "split_and_rotate_gesture_2",
       "prevSize": 32
     },
     {
-      "order": 166,
+      "order": 168,
       "name": "split_and_rotate_gesture_3",
       "prevSize": 32
     },
     {
-      "order": 167,
+      "order": 169,
       "name": "eco_2_chart",
       "prevSize": 32
     },
     {
-      "order": 168,
+      "order": 170,
       "name": "eco_2",
       "prevSize": 32
     },
     {
-      "order": 169,
+      "order": 171,
       "name": "fuel_station",
       "prevSize": 32
     },
     {
-      "order": 170,
+      "order": 172,
       "name": "fuel_excellent",
       "prevSize": 32
     },
     {
-      "order": 171,
+      "order": 173,
       "name": "fuel_very_good",
       "prevSize": 32
     },
     {
-      "order": 172,
+      "order": 174,
       "name": "fuel_good",
       "prevSize": 32
     },
     {
-      "order": 173,
+      "order": 175,
       "name": "fuel_low",
       "prevSize": 32
     },
     {
-      "order": 174,
+      "order": 176,
       "name": "fuel_very_low",
       "prevSize": 32
     },
     {
-      "order": 175,
+      "order": 177,
       "name": "no_fuel",
       "prevSize": 32
     },
     {
-      "order": 176,
+      "order": 178,
       "name": "fuel_compare",
       "prevSize": 32
     },
     {
-      "order": 177,
+      "order": 179,
       "name": "hybrid",
       "prevSize": 32
     },
     {
-      "order": 178,
+      "order": 180,
       "name": "plugging_hybrid",
       "prevSize": 32
     },
     {
-      "order": 179,
+      "order": 181,
       "name": "battery",
       "prevSize": 32
     },
     {
-      "order": 180,
+      "order": 182,
       "name": "battery_leasing",
       "prevSize": 32
     },
     {
-      "order": 181,
+      "order": 183,
       "name": "electric_power",
       "prevSize": 32
     },
     {
-      "order": 182,
+      "order": 184,
       "name": "electric_plug",
       "prevSize": 32
     },
     {
-      "order": 183,
+      "order": 185,
       "name": "not_plugged",
       "prevSize": 32
     },
     {
-      "order": 184,
+      "order": 186,
       "name": "plugged_ok",
       "prevSize": 32
     },
     {
-      "order": 185,
+      "order": 187,
       "name": "standard_charging_port",
       "prevSize": 32
     },
     {
-      "order": 186,
+      "order": 188,
       "name": "rapide_charging_port",
       "prevSize": 32
     },
     {
-      "order": 187,
+      "order": 189,
       "name": "wall_charging_port",
       "prevSize": 32
     },
     {
-      "order": 188,
+      "order": 190,
       "name": "electric_vehicule",
       "prevSize": 32
     },
     {
-      "order": 189,
+      "order": 191,
       "name": "battery_excellent",
       "prevSize": 32
     },
     {
-      "order": 190,
+      "order": 192,
       "name": "battery_very_good",
       "prevSize": 32
     },
     {
-      "order": 191,
+      "order": 193,
       "name": "battery_good",
       "prevSize": 32
     },
     {
-      "order": 192,
+      "order": 194,
       "name": "battery_low",
       "prevSize": 32
     },
     {
-      "order": 193,
+      "order": 195,
       "name": "battery_very_low",
       "prevSize": 32
     },
     {
-      "order": 194,
+      "order": 196,
       "name": "no_battery",
       "prevSize": 32
     },
     {
-      "order": 195,
+      "order": 197,
       "name": "engine",
       "prevSize": 32
     },
     {
-      "order": 196,
+      "order": 198,
       "name": "electric_engine",
       "prevSize": 32
     },
     {
-      "order": 197,
+      "order": 199,
       "name": "kw_engine",
       "prevSize": 32
     },
     {
-      "order": 198,
+      "order": 200,
       "name": "oil_engine",
       "prevSize": 32
     },
     {
-      "order": 199,
+      "order": 201,
       "name": "engine_capacity",
       "prevSize": 32
     },
     {
-      "order": 200,
+      "order": 202,
       "name": "car",
       "prevSize": 32
     },
     {
-      "order": 201,
+      "order": 203,
       "name": "car_park",
       "prevSize": 32
     },
     {
-      "order": 202,
+      "order": 204,
       "name": "car_range",
       "prevSize": 32
     },
     {
-      "order": 203,
+      "order": 205,
       "name": "hatchback",
       "prevSize": 32
     },
     {
-      "order": 204,
+      "order": 206,
       "name": "sedan",
       "prevSize": 32
     },
     {
-      "order": 205,
+      "order": 207,
       "name": "etate",
       "prevSize": 32
     },
     {
-      "order": 206,
+      "order": 208,
       "name": "mpv",
       "prevSize": 32
     },
     {
-      "order": 207,
+      "order": 209,
       "name": "suv",
       "prevSize": 32
     },
     {
-      "order": 208,
+      "order": 210,
       "name": "pick-up",
       "prevSize": 32
     },
     {
-      "order": 209,
+      "order": 211,
       "name": "coupe",
       "prevSize": 32
     },
     {
-      "order": 210,
+      "order": 212,
       "name": "roadster",
       "prevSize": 32
     },
     {
-      "order": 211,
+      "order": 213,
       "name": "race",
       "prevSize": 32
     },
     {
-      "order": 212,
+      "order": 214,
       "name": "passenger_cdv",
       "prevSize": 32
     },
     {
-      "order": 213,
+      "order": 215,
       "name": "cdv",
       "prevSize": 32
     },
     {
-      "order": 214,
+      "order": 216,
       "name": "shuttle",
       "prevSize": 32
     },
     {
-      "order": 215,
+      "order": 217,
       "name": "compact_van",
       "prevSize": 32
     },
     {
-      "order": 216,
+      "order": 218,
       "name": "minibus",
       "prevSize": 32
     },
     {
-      "order": 217,
+      "order": 219,
       "name": "large_van",
       "prevSize": 32
     },
     {
-      "order": 218,
+      "order": 220,
       "name": "chassis-cab",
       "prevSize": 32
     },
     {
-      "order": 219,
+      "order": 221,
       "name": "dump_truck",
       "prevSize": 32
     },
     {
-      "order": 220,
+      "order": 222,
       "name": "campervan",
       "prevSize": 32
     },
     {
-      "order": 221,
+      "order": 223,
       "name": "acceleration",
       "prevSize": 32
     },
     {
-      "order": 222,
+      "order": 224,
       "name": "braking",
       "prevSize": 32
     },
     {
-      "order": 223,
+      "order": 225,
       "name": "prgression",
       "prevSize": 32
     },
     {
-      "order": 224,
+      "order": 226,
       "name": "renault_rent",
       "prevSize": 32
     },
     {
-      "order": 225,
+      "order": 227,
       "name": "second_hand",
       "prevSize": 32
     },
     {
-      "order": 226,
+      "order": 228,
       "name": "refresh_configuration",
       "prevSize": 32
     },
     {
-      "order": 227,
+      "order": 229,
       "name": "start_again",
       "prevSize": 32
     },
     {
-      "order": 228,
+      "order": 230,
       "name": "interior",
       "prevSize": 32
     },
     {
-      "order": 229,
+      "order": 231,
       "name": "custom",
       "prevSize": 32
     },
     {
-      "order": 230,
+      "order": 232,
       "name": "favourite_car",
       "prevSize": 32
     },
     {
-      "order": 231,
+      "order": 233,
       "name": "intervention",
       "prevSize": 32
     },
     {
-      "order": 232,
+      "order": 234,
       "name": "mergency",
       "prevSize": 32
     },
     {
-      "order": 233,
+      "order": 235,
       "name": "crash",
       "prevSize": 32
     },
     {
-      "order": 234,
+      "order": 236,
       "name": "breakdown",
       "prevSize": 32
     },
     {
-      "order": 235,
+      "order": 237,
       "name": "car_elevator",
       "prevSize": 32
     },
     {
-      "order": 236,
+      "order": 238,
       "name": "car_review",
       "prevSize": 32
     },
     {
-      "order": 237,
+      "order": 239,
       "name": "draining",
       "prevSize": 32
     },
     {
-      "order": 238,
+      "order": 240,
       "name": "mechanical_1",
       "prevSize": 32
     },
     {
-      "order": 239,
+      "order": 241,
       "name": "mechanical_2",
       "prevSize": 32
     },
     {
-      "order": 240,
+      "order": 242,
       "name": "spray_gun",
       "prevSize": 32
     },
     {
-      "order": 241,
+      "order": 243,
       "name": "paint_bucket",
       "prevSize": 32
     },
     {
-      "order": 242,
+      "order": 244,
       "name": "spray",
       "prevSize": 32
     },
     {
-      "order": 243,
+      "order": 245,
       "name": "spare_parts",
       "prevSize": 32
     },
     {
-      "order": 244,
+      "order": 246,
       "name": "car_body",
       "prevSize": 32
     },
     {
-      "order": 245,
+      "order": 247,
       "name": "type_and_rim",
       "prevSize": 32
     },
     {
-      "order": 246,
+      "order": 248,
       "name": "braking_1",
       "prevSize": 32
     },
     {
-      "order": 247,
+      "order": 249,
       "name": "tyre",
       "prevSize": 32
     },
     {
-      "order": 248,
+      "order": 250,
       "name": "check_tyre",
       "prevSize": 32
     },
     {
-      "order": 249,
+      "order": 251,
       "name": "pumping",
       "prevSize": 32
     },
     {
-      "order": 250,
+      "order": 252,
       "name": "damper",
       "prevSize": 32
     },
     {
-      "order": 251,
+      "order": 253,
       "name": "piston",
       "prevSize": 32
     },
     {
-      "order": 252,
+      "order": 254,
       "name": "double_piston",
       "prevSize": 32
     },
     {
-      "order": 253,
+      "order": 255,
       "name": "timing_belt",
       "prevSize": 32
     },
     {
-      "order": 254,
+      "order": 256,
       "name": "oil_filter",
       "prevSize": 32
     },
     {
-      "order": 255,
+      "order": 257,
       "name": "exhaust",
       "prevSize": 32
     },
     {
-      "order": 256,
+      "order": 258,
       "name": "check_oil",
       "prevSize": 32
     },
     {
-      "order": 257,
+      "order": 259,
       "name": "cooling_liquid",
       "prevSize": 32
     },
     {
-      "order": 258,
+      "order": 260,
       "name": "steering_wheel",
       "prevSize": 32
     },
     {
-      "order": 259,
+      "order": 261,
       "name": "gearbox_1",
       "prevSize": 32
     },
     {
-      "order": 260,
+      "order": 262,
       "name": "gearbox_2",
       "prevSize": 32
     },
     {
-      "order": 261,
+      "order": 263,
       "name": "gearbox_3",
       "prevSize": 32
     },
     {
-      "order": 262,
+      "order": 264,
       "name": "gearbox_4",
       "prevSize": 32
     },
     {
-      "order": 263,
+      "order": 265,
       "name": "weight",
       "prevSize": 32
     },
     {
-      "order": 264,
+      "order": 266,
       "name": "keys",
       "prevSize": 32
     },
     {
-      "order": 265,
+      "order": 267,
       "name": "sellerie",
       "prevSize": 32
     },
     {
-      "order": 266,
+      "order": 268,
       "name": "air_conditionning",
       "prevSize": 32
     },
     {
-      "order": 267,
+      "order": 269,
       "name": "speeometer",
       "prevSize": 32
     },
     {
-      "order": 268,
+      "order": 270,
       "name": "windshield",
       "prevSize": 32
     },
     {
-      "order": 269,
+      "order": 271,
       "name": "windshield_wipers",
       "prevSize": 32
     },
     {
-      "order": 270,
+      "order": 272,
       "name": "windshield_wipers_ok",
       "prevSize": 32
     },
     {
-      "order": 271,
+      "order": 273,
       "name": "door",
       "prevSize": 32
     },
     {
-      "order": 272,
+      "order": 274,
       "name": "drame",
       "prevSize": 32
     },
     {
-      "order": 273,
+      "order": 275,
       "name": "snow_box",
       "prevSize": 32
     },
     {
-      "order": 274,
+      "order": 276,
       "name": "box_1",
       "prevSize": 32
     },
     {
-      "order": 275,
+      "order": 277,
       "name": "luggages",
       "prevSize": 32
     },
     {
-      "order": 276,
+      "order": 278,
       "name": "payload",
       "prevSize": 32
     },
     {
-      "order": 277,
+      "order": 279,
       "name": "bike",
       "prevSize": 32
     },
     {
-      "order": 278,
+      "order": 280,
       "name": "headlights",
       "prevSize": 32
     },
     {
-      "order": 279,
+      "order": 281,
       "name": "dimmed_headlights",
       "prevSize": 32
     },
     {
-      "order": 280,
+      "order": 282,
       "name": "front_fog_lights",
       "prevSize": 32
     },
     {
-      "order": 281,
+      "order": 283,
       "name": "no_lights",
       "prevSize": 32
     },
     {
-      "order": 282,
+      "order": 284,
       "name": "very_happy",
       "prevSize": 32
     },
     {
-      "order": 283,
+      "order": 285,
       "name": "happy",
       "prevSize": 32
     },
     {
-      "order": 284,
+      "order": 286,
       "name": "undecided",
       "prevSize": 32
     },
     {
-      "order": 285,
+      "order": 287,
       "name": "not_happy",
       "prevSize": 32
     },
     {
-      "order": 286,
+      "order": 288,
       "name": "angry",
       "prevSize": 32
     },
     {
-      "order": 287,
+      "order": 289,
       "name": "surprise",
       "prevSize": 32
     },
     {
-      "order": 288,
+      "order": 290,
       "name": "cool",
       "prevSize": 32
     },
     {
-      "order": 289,
+      "order": 291,
       "name": "garantee",
       "prevSize": 32
     },
     {
-      "order": 290,
+      "order": 292,
       "name": "prise",
       "prevSize": 32
     },
     {
-      "order": 291,
+      "order": 293,
       "name": "helmet",
       "prevSize": 32
     },
     {
-      "order": 292,
+      "order": 294,
       "name": "joystick",
       "prevSize": 32
     },
     {
-      "order": 293,
+      "order": 295,
       "name": "sunny",
       "prevSize": 32
     },
     {
-      "order": 294,
+      "order": 296,
       "name": "windy",
       "prevSize": 32
     },
     {
-      "order": 295,
+      "order": 297,
       "name": "cloudy_1",
       "prevSize": 32
     },
     {
-      "order": 296,
+      "order": 298,
       "name": "cloudy_2",
       "prevSize": 32
     },
     {
-      "order": 297,
+      "order": 299,
       "name": "raining_1",
       "prevSize": 32
     },
     {
-      "order": 298,
+      "order": 300,
       "name": "raining_2",
       "prevSize": 32
     },
     {
-      "order": 299,
+      "order": 301,
       "name": "lightning",
       "prevSize": 32
     },
     {
-      "order": 300,
+      "order": 302,
       "name": "partly_cloudy_1",
       "prevSize": 32
     },
     {
-      "order": 301,
+      "order": 303,
       "name": "partly_cloudy_2",
       "prevSize": 32
     },
     {
-      "order": 302,
+      "order": 304,
       "name": "partly_raining_1",
       "prevSize": 32
     },
     {
-      "order": 303,
+      "order": 305,
       "name": "artly_raining_2",
       "prevSize": 32
     },
     {
-      "order": 304,
+      "order": 306,
       "name": "partly_lightning_1",
       "prevSize": 32
     },
     {
-      "order": 305,
+      "order": 307,
       "name": "partly_lightning_2",
       "prevSize": 32
     },
     {
-      "order": 306,
+      "order": 308,
       "name": "snowing",
       "prevSize": 32
     },
     {
-      "order": 307,
+      "order": 309,
       "name": "partly_snowing_1",
       "prevSize": 32
     },
     {
-      "order": 308,
+      "order": 310,
       "name": "partly_snowing_2",
       "prevSize": 32
     },
     {
-      "order": 309,
+      "order": 311,
       "name": "snowy",
       "prevSize": 32
     }
@@ -4677,7 +4677,7 @@
       "metadata": {
         "fontFamily": "RenaultIcon",
         "majorVersion": 1,
-        "minorVersion": 1,
+        "minorVersion": 3,
         "description": "Renault Design System 2020 Icon Library",
         "copyright": "All Right Reserved",
         "designer": "Purjus Communication",
